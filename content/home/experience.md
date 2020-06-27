@@ -19,50 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Professor"
-  company = "University of Exeter"
-  location = "Cornwall, UK"
+  company = "Biosciences, University of Exeter"
   date_start = "2019-09-01"
   date_end = ""
 
 [[experience]]
   title = "Associate Professor"
-  company = "University of Exeter"
-  location = "Biosciences / Centre for Ecology and Conservation"
+  company = "Biosciences, University of Exeter"
   date_start = "2019-08-01"
   date_end = "2015-07-01"
   
 [[experience]]
   title = "Reader [Associate Professor]"
-  company = "Durham University"
-  location = "Department of Anthropology"
+  company = "Department of Anthropology, Durham University"
   date_start = "2015-07-01"
   date_end = "2012-08-01"
   
 [[experience]]
   title = "Lecturer [Assistant Professor]"
-  company = "Queen Mary University of London"
-  location = "School of Biological and Chemical Sciences"
+  company = "School of Biological and Chemical Sciences, Queen Mary University of London"
   date_start = "2012-07-01"
   date_end = "2008-08-01"
 
 [[experience]]
   title = "Mellon Foundation Postdoctoral Fellow"
-  company = "University of Cambridge"
-  location = "Department of Social and Developmental Psychology"
+  company = "Department of Social and Developmental Psychology, University of Cambridge"
   date_start = "2008-07-01"
   date_end = "2007-08-01"
 
 [[experience]]
   title = "Postdoctoral Research Fellow"
-  company = "University of British Columbia"
-  location = "W. Maurice Young Centre for Applied Ethics"
+  company = "W. Maurice Young Centre for Applied Ethics, University of British Columbia"
   date_start = "2007-07-01"
   date_end = "2006-08-01"
 
 [[experience]]
   title = "Postdoctoral Research Fellow"
-  company = "University of Missouri, Columbia"
-  location = "Deparment of Anthropology"
+  company = "Department of Anthropology, University of Missouri, Columbia"
   date_start = "2006-07-01"
   date_end = "2005-08-01"
 
