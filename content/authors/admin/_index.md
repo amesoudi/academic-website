@@ -70,12 +70,12 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! I am **Professor of Cultural Evolution** in the [Human Behaviour and Cultural Evolution Group](https://hubceg.jimdofree.com/) at the University of Exeter’s Cornwall Campus, UK.
+Welcome to my website! I am Professor of Cultural Evolution in the [Human Behaviour and Cultural Evolution Group](https://hubceg.jimdofree.com/) at the University of Exeter’s Cornwall Campus, UK.
 
-I study **cultural evolution**, the idea that cultural change constitutes a Darwinian evolutionary process that can be studied using similar tools, methods and concepts as those used by biologists to study genetic evolution.
+I study **human cultural evolution**. I am interested in how human culture evolved, and how culture itself evolves over time.
 
-I use **experiments** to simulate human cultural evolution in the lab. In these experiments people typically make and copy technological artifacts such as arrowheads or handaxes, or solve problems that resemble real-world challenges. The aim is to use simple experiments to better understand how psychological and social processes may have shaped real-life cultural change, past and present. 
+I use **experiments** to simulate cultural evolution in the lab. I get people to make and copy technological artifacts such as arrowheads or handaxes, or solve problems that resemble real-world challenges, in order to better understand how psychological and social processes have shaped real-life cultural change past and present.
 
-I also construct **models and simulations** of cultural evolution. These explore how individual decisions (e.g. when and from whom people learn) translate into population-level patterns of cultural change.
+I also construct **theoretical models** of cultural evolution. These explore how individual decisions (e.g. when and from whom people learn) translate into population-level patterns of cultural change, such as relating to cumulative technological change, copycat suicides, or the effects of migration on cultural diversity.
 
-Finally, I analyse **big datasets** to explain large-scale, long-term patterns of cultural evolution in the real world.
+Finally, I analyse **big datasets** to explain large-scale, long-term dynamics of cultural evolution in the real world, such as in pop music or football tactics.
