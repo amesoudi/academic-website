@@ -18,24 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human cultural evolution and social learning.
+bio: Cultural evolution researcher at the University of Exeter
 
-interests:
-- Cultural Evolution
-- Social Learning
-- Evolution and Human Behaviour
+# interests:
+# - Cultural Evolution
+# - Social Learning
+# - Evolution and Human Behaviour
 
-education:
-  courses:
-  - course: PhD
-    institution: University of St Andrews
-    year: 2002-2005
-  - course: MSc Evolutionary Psychology
-    institution: University of Liverpool
-    year: 2001-2002
-  - course: BSc Psychology
-    institution: University College London
-    year: 1998-2001
+# education:
+#  courses:
+#  - course: PhD
+#    institution: University of St Andrews
+#    year: 2002-2005
+#  - course: MSc Evolutionary Psychology
+#    institution: University of Liverpool
+#    year: 2001-2002
+#  - course: BSc Psychology
+#    institution: University College London
+#    year: 1998-2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:a.mesoudi@exeter.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/amesoudi
@@ -56,26 +56,25 @@ social:
   link: https://github.com/amesoudi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/alex_mesoudi_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
+# ---
 
-Welcome to my website! I am Professor of Cultural Evolution in the [Human Behaviour and Cultural Evolution Group](https://hubceg.jimdofree.com/) at the University of Exeter’s Cornwall Campus, UK.
+Welcome! I am Professor of Cultural Evolution in the [Human Behaviour and Cultural Evolution Group](https://hubceg.jimdofree.com/) at the University of Exeter’s Cornwall Campus, UK.
 
 I study **human cultural evolution**. I am interested in how human culture evolved, and how culture itself evolves over time.
 
-I use **experiments** to simulate cultural evolution in the lab. I get people to make and copy technological artifacts such as arrowheads or handaxes, or solve problems that resemble real-world challenges, in order to better understand how psychological and social processes have shaped real-life cultural change past and present.
+I use **experiments** to simulate cultural evolution in the lab. I get people to make and copy technological artifacts such as arrowheads or handaxes, or solve problems that resemble real-world challenges. The aim is to better understand how psychological and social processes have shaped real-life cultural change past and present.
 
-I also construct **theoretical models** of cultural evolution. These explore how individual decisions (e.g. when and from whom people learn) translate into population-level patterns of cultural change, such as relating to cumulative technological change, copycat suicides, or the effects of migration on cultural diversity.
+I construct **theoretical models** of cultural evolution. These explore how individual decisions (e.g. when and from whom people learn) translate into population-level patterns of cultural change. I have modelled cumulative technological change, copycat suicides, and the effects of migration on cultural diversity.
 
-Finally, I analyse **big datasets** to explain large-scale, long-term dynamics of cultural evolution in the real world, such as in pop music or football tactics.
+I analyse **big datasets** to explain real world patterns of cultural evolution, such as in pop music or football tactics.
