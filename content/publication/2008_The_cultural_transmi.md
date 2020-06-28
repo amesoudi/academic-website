@@ -1,10 +1,10 @@
 +++
-title = "The cultural transmission of Great Basin projectile point technology II: An agent-based computer simulation"
+title = "The cultural transmission of Great Basin projectile point technology I: An experimental simulation"
 date = "2008"
-authors = ["Alex Mesoudi", "M. J. O'Brien"]
+authors = ["Alex Mesoudi", "Michael J. O'Brien"]
 publication_types = ["2"]
-publication = "American Antiquity, (73), 4, _pp. 627--644_"
-publication_short = "American Antiquity, (73), 4, _pp. 627--644_"
+publication = "American Antiquity, (73), 1, _pp. 3--28_, https://doi.org/10.2307/25470456"
+publication_short = "American Antiquity, (73), 1, _pp. 3--28_, https://doi.org/10.2307/25470456"
 abstract = ""
 abstract_short = ""
 image_preview = ""

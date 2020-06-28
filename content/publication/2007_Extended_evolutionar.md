@@ -1,5 +1,5 @@
 +++
-title = "Extended evolutionary theory makes human culture more amenable to evolutionary analysis. Commentary on Jablonka, E. and Lamb, M. J., Pr\'ecis of Evolution in Four Dimensions"
+title = "Extended evolutionary theory makes human culture more amenable to evolutionary analysis. Commentary on Jablonka, E. and Lamb, M. J., Precis of Evolution in Four Dimensions"
 date = "2007"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
