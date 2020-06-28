@@ -1,5 +1,5 @@
 +++
-title = "Copying error and the cultural evolution of {"}additive{"} vs. {"}reductive{"} material traditions: an experimental assessment"
+title = "Copying error and the cultural evolution of additive vs. reductive material traditions: An experimental assessment"
 date = "2014-01-01"
 authors = ["Kerstin Schillinger", "Alex Mesoudi", "Stephen J. Lycett"]
 publication_types = ["2"]
