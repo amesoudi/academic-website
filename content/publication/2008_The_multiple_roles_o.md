@@ -1,6 +1,6 @@
 +++
 title = "The multiple roles of cultural transmission experiments in understanding human cultural evolution"
-date = "2008-01-01"
+date = "2008"
 authors = ["Alex Mesoudi", "Andrew Whiten"]
 publication_types = ["2"]
 publication = "Philosophical Transactions of the Royal Society B, (363), _pp. 3489--3501_"

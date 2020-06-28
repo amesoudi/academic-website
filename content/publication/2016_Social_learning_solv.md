@@ -1,6 +1,6 @@
 +++
 title = "Social learning solves the problem of narrow-peaked search landscapes: experimental evidence in humans"
-date = "2016-01-01"
+date = "2016"
 authors = ["Alberto Acerbi", "Claudio Tennie", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Royal Society Open Science, (3), 9, _pp. 160215_, https://doi.org/10.1098/rsos.160215"

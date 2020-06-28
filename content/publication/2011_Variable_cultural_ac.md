@@ -1,6 +1,6 @@
 +++
 title = "Variable cultural acquisition costs constrain cumulative cultural evolution"
-date = "2011-01-01"
+date = "2011"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "PLOS One, (6), 3, _pp. e18239_"

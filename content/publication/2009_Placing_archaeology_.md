@@ -1,6 +1,6 @@
 +++
 title = "Placing archaeology within a unified science of cultural evolution"
-date = "2009-01-01"
+date = "2009"
 authors = ["Alex Mesoudi", "M. J. O'Brien"]
 publication_types = ["6"]
 publication = "NA, _pp. 21--32_"

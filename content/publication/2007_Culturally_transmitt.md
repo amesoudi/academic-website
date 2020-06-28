@@ -1,6 +1,6 @@
 +++
 title = "Culturally transmitted paternity beliefs and the evolution of human mating behaviour"
-date = "2007-01-01"
+date = "2007"
 authors = ["Alex Mesoudi", "K. N. Laland"]
 publication_types = ["2"]
 publication = "Proceedings of the Royal Society B, (274), _pp. 1273--1278_"

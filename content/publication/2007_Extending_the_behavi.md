@@ -1,6 +1,6 @@
 +++
 title = "Extending the behavioral sciences framework: Clarification of methods, predictions and concepts."
-date = "2007-01-01"
+date = "2007"
 authors = ["Alex Mesoudi", "K. N. Laland"]
 publication_types = ["2"]
 publication = "Behavioral and Brain Sciences, (30), 1, _pp. 36--37_"

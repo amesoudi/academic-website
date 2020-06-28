@@ -1,6 +1,6 @@
 +++
 title = "Culture and the evolution of human sociality"
-date = "2012-01-01"
+date = "2012"
 authors = ["Alex Mesoudi", "K. Jensen"]
 publication_types = ["6"]
 publication = "NA, _pp. 419--433_"

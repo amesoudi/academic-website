@@ -1,6 +1,6 @@
 +++
 title = "What is cumulative cultural evolution?"
-date = "2018-01-01"
+date = "2018"
 authors = ["Alex Mesoudi", "Alex Thornton"]
 publication_types = ["2"]
 publication = "Proceedings of the Royal Society B, (285), 1880, _pp. 20180712_, https://doi.org/10.1098/rspb.2018.0712"

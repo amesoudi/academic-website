@@ -1,6 +1,6 @@
 +++
 title = "Causal understanding is not necessary for the improvement of culturally evolving technology"
-date = "2019-01-01"
+date = "2019"
 authors = ["Maxime Derex", "Jean-Francois Bonnefon", "Robert Boyd", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Nature Human Behaviour, (3), 5, _pp. 446--452_, https://doi.org/10.1038/s41562-019-0567-9"

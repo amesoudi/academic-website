@@ -1,6 +1,6 @@
 +++
 title = "Considering the role of time budgets on copy-error rates in material culture traditions: an experimental assessment"
-date = "2014-01-01"
+date = "2014"
 authors = ["Kerstin Schillinger", "Alex Mesoudi", "Stephen J. Lycett"]
 publication_types = ["2"]
 publication = "PLOS ONE, (9), 5, _pp. e97157_"

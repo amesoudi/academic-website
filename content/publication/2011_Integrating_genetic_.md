@@ -1,6 +1,6 @@
 +++
 title = "Integrating genetic and cultural evolutionary approaches to language"
-date = "2011-01-01"
+date = "2011"
 authors = ["Alex Mesoudi", "A.G. McElligott", "D. Adger"]
 publication_types = ["2"]
 publication = "Human Biology, (83), 2, _pp. 141--151_"

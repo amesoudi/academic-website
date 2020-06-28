@@ -1,6 +1,6 @@
 +++
 title = "Adult learners in a novel environment use prestige-biased social learning."
-date = "2011-01-01"
+date = "2011"
 authors = ["Curtis Atkisson", "Michael J. O'Brien", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Evolutionary psychology, (10), 3, _pp. 519--537_"

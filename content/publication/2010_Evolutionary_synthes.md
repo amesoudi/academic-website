@@ -1,6 +1,6 @@
 +++
 title = "Evolutionary synthesis in the social sciences and humanities"
-date = "2010-01-01"
+date = "2010"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Cultural Science, (3), 1"

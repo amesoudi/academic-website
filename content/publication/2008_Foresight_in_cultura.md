@@ -1,6 +1,6 @@
 +++
 title = "Foresight in cultural evolution"
-date = "2008-01-01"
+date = "2008"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Biology and Philosophy, (23), 2, _pp. 243--255_"

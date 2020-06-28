@@ -1,6 +1,6 @@
 +++
 title = "Migration, acculturation, and the maintenance of between-group cultural variation"
-date = "2018-01-01"
+date = "2018"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "PLOS ONE, (13), 10, _pp. e0205573_, https://doi.org/10.1371/journal.pone.0205573"

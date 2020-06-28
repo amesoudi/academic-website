@@ -1,6 +1,6 @@
 +++
 title = "Is human cultural evolution Darwinian? Evidence reviewed from the perspective of The Origin of Species"
-date = "2004-01-01"
+date = "2004"
 authors = ["Alex Mesoudi", "Andrew Whiten", "Kevin N. Laland"]
 publication_types = ["2"]
 publication = "Evolution, (58), 1, _pp. 1--11_"

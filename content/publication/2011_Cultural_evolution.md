@@ -1,6 +1,6 @@
 +++
 title = "Cultural evolution"
-date = "2011-01-01"
+date = "2011"
 authors = ["Alex Mesoudi"]
 publication_types = ["5"]
 publication = "NA"

@@ -1,6 +1,6 @@
 +++
 title = "A Darwinian theory of cultural evolution can promote an evolutionary synthesis for the social sciences."
-date = "2007-01-01"
+date = "2007"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Biological Theory, (2), 3, _pp. 263--275_"

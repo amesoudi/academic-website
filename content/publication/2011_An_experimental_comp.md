@@ -1,6 +1,6 @@
 +++
 title = "An experimental comparison of human social learning strategies: payoff-biased social learning is adaptive but underused"
-date = "2011-01-01"
+date = "2011"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Evolution and Human Behavior, (32), 5, _pp. 334--342_, https://doi.org/10.1016/j.evolhumbehav.2010.12.001"

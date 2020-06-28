@@ -1,6 +1,6 @@
 +++
 title = "Using the methods of social psychology to study cultural evolution"
-date = "2007-01-01"
+date = "2007"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Journal of Social, Evolutionary and Cultural Psychology, (1), 2, _pp. 35--58_"

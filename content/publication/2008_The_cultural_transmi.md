@@ -1,6 +1,6 @@
 +++
 title = "The cultural transmission of Great Basin projectile point technology II: An agent-based computer simulation"
-date = "2008-01-01"
+date = "2008"
 authors = ["Alex Mesoudi", "M. J. O'Brien"]
 publication_types = ["2"]
 publication = "American Antiquity, (73), 4, _pp. 627--644_"

@@ -1,6 +1,6 @@
 +++
 title = "Why aren't the social sciences Darwinian?"
-date = "2010-01-01"
+date = "2010"
 authors = ["Alex Mesoudi", "D. Veldhuis", "R. A. Foley"]
 publication_types = ["2"]
 publication = "Journal of Evolutionary Psychology, (8), 2, _pp. 93--104_"

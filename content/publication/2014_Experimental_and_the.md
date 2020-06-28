@@ -1,6 +1,6 @@
 +++
 title = "Experimental and theoretical models of human cultural evolution"
-date = "2014-01-01"
+date = "2014"
 authors = ["Marius Kempe", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Wiley Interdisciplinary Reviews: Cognitive Science, (5), 3, _pp. 317--326_, https://doi.org/10.1002/wcs.1288"

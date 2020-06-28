@@ -1,6 +1,6 @@
 +++
 title = "Experimental priming of independent and interdependent activity does not affect culturally variable psychological processes"
-date = "2017-01-01"
+date = "2017"
 authors = ["Kesson Magid", "Vera Sarkol", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Royal Society Open Science, (4), 5, _pp. 161025_, https://doi.org/10.1098/rsos.161025"

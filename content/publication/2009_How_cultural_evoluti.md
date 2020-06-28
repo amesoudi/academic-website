@@ -1,6 +1,6 @@
 +++
 title = "How cultural evolutionary theory can inform social psychology and vice versa"
-date = "2009-01-01"
+date = "2009"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Psychological Review, (116), 4, _pp. 929--952_, https://doi.org/10.1037/a0017062"

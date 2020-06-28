@@ -1,6 +1,6 @@
 +++
 title = "The learning and transmission of hierarchical cultural recipes"
-date = "2008-01-01"
+date = "2008"
 authors = ["Alex Mesoudi", "M. J. O'Brien"]
 publication_types = ["2"]
 publication = "Biological Theory, (3), 1, _pp. 63--72_"

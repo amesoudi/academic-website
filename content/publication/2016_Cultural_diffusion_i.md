@@ -1,6 +1,6 @@
 +++
 title = "Cultural diffusion in humans and other animals"
-date = "2016-01-01"
+date = "2016"
 authors = ["Andrew Whiten", "Christine A Caldwell", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Current Opinion in Psychology, (8), _pp. 15--21_, https://doi.org/10.1016/j.copsyc.2015.09.002"

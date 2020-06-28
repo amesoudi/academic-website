@@ -1,6 +1,6 @@
 +++
 title = "The evolution of individual and cultural variation in social learning"
-date = "2016-01-01"
+date = "2016"
 authors = ["Alex Mesoudi", "Lei Chang", "Sasha R. X. Dall", "Alex Thornton"]
 publication_types = ["2"]
 publication = "Trends in Ecology and Evolution, (31), 3, _pp. 215--225_, https://doi.org/10.1016/j.tree.2015.12.012"
