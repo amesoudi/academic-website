@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Cultural evolution researcher at the University of Exeter
 
-# interests:
-# - Cultural Evolution
-# - Social Learning
-# - Evolution and Human Behaviour
+interests:
+ - Cultural Evolution
+ - Social Learning
+ - Evolution and Human Behaviour
 
-# education:
-#  courses:
-#  - course: PhD
-#    institution: University of St Andrews
-#    year: 2002-2005
-#  - course: MSc Evolutionary Psychology
-#    institution: University of Liverpool
-#    year: 2001-2002
-#  - course: BSc Psychology
-#    institution: University College London
-#    year: 1998-2001
+education:
+ courses:
+ - course: PhD
+   institution: University of St Andrews
+   year: 2002-2005
+ - course: MSc Evolutionary Psychology
+   institution: University of Liverpool
+   year: 2001-2002
+ - course: BSc Psychology
+   institution: University College London
+   year: 1998-2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
