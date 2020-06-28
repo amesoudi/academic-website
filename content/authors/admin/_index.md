@@ -67,7 +67,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
 # - Researchers
-# ---
+
+---
 
 Welcome! I am Professor of Cultural Evolution in the [Human Behaviour and Cultural Evolution Group](https://hubceg.jimdofree.com/) at the University of Exeter’s Cornwall Campus, UK.
 
