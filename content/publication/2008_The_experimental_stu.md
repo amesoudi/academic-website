@@ -1,6 +1,6 @@
 +++
 title = "The experimental study of cultural transmission and its potential for explaining archaeological data"
-date = "2008"
+date = "2008-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["6"]
 publication = "NA"

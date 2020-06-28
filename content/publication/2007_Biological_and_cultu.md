@@ -1,6 +1,6 @@
 +++
 title = "Biological and cultural evolution: Similar but different"
-date = "2007"
+date = "2007-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Biological Theory, (2), 2, _pp. 119--123_"

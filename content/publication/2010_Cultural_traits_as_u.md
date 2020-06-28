@@ -1,6 +1,6 @@
 +++
 title = "Cultural traits as units of analysis"
-date = "2010"
+date = "2010-01-01"
 authors = ["M.J. O'Brien", "R.L. Lyman", "Alex Mesoudi", "T.L. VanPool"]
 publication_types = ["2"]
 publication = "Philosophical Transactions of the Royal Society B: Biological Sciences, (365), 1559, _pp. 3797--3806_"

@@ -1,6 +1,6 @@
 +++
 title = "Studying cultural innovation in the psychology lab"
-date = "2010"
+date = "2010-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["6"]
 publication = "NA, _pp. 175--191_"

@@ -1,6 +1,6 @@
 +++
 title = "Is non-genetic inheritance just a proximate mechanism? A corroboration of the extended evolutionary synthesis"
-date = "2013"
+date = "2013-01-01"
 authors = ["Alex Mesoudi", "Simon Blanchet", "Anne Charmantier", "Etienne Danchin", "Laurel Fogarty", "Eva Jablonka", "Kevin N. Laland", "Thomas J. H. Morgan", "Gerd B. Muller", "F. John Odling-Smee"]
 publication_types = ["2"]
 publication = "Biological Theory, (7), 3, _pp. 189--195_"

@@ -1,6 +1,6 @@
 +++
 title = "Towards a unified science of cultural evolution"
-date = "2006"
+date = "2006-01-01"
 authors = ["Alex Mesoudi", "A. Whiten", "K. N. Laland"]
 publication_types = ["2"]
 publication = "Behavioral and Brain Sciences, (29), 4, _pp. 329--383_"

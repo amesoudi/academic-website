@@ -1,6 +1,6 @@
 +++
 title = "Cultural evolution: Integrating psychology, evolution and culture"
-date = "2016"
+date = "2016-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Current Opinion in Psychology, (7), _pp. 17--22_, https://doi.org/10.1016/j.copsyc.2015.07.001"

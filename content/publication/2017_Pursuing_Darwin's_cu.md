@@ -1,6 +1,6 @@
 +++
 title = "Pursuing Darwin's curious parallel: Prospects for a science of cultural evolution"
-date = "2017"
+date = "2017-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Proceedings of the National Academy of Sciences, (114), 30, _pp. 7853--7860_, https://doi.org/10.1073/pnas.1620741114"

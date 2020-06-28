@@ -1,6 +1,6 @@
 +++
 title = "The nature and development of mathematics: Cross disciplinary perspectives on cognition, learning and culture"
-date = "2017"
+date = "2017-01-01"
 authors = ["John Adams", "Patrick Barmby", "Alex Mesoudi"]
 publication_types = ["5"]
 publication = "NA"

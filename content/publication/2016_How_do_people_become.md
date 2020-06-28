@@ -1,6 +1,6 @@
 +++
 title = "How do people become W.E.I.R.D.? Migration reveals the cultural transmission mechanisms underlying variation in psychological processes"
-date = "2016"
+date = "2016-01-01"
 authors = ["Alex Mesoudi", "Kesson Magid", "Delwar Hussain"]
 publication_types = ["2"]
 publication = "PLOS ONE, (11), 1, _pp. e0147162_, https://doi.org/10.1371/journal.pone.0147162"

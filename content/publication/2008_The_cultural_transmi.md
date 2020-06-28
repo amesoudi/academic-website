@@ -1,6 +1,6 @@
 +++
 title = "The cultural transmission of Great Basin projectile point technology I: An experimental simulation"
-date = "2008"
+date = "2008-01-01"
 authors = ["Alex Mesoudi", "Michael J. O'Brien"]
 publication_types = ["2"]
 publication = "American Antiquity, (73), 1, _pp. 3--28_, https://doi.org/10.2307/25470456"

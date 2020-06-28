@@ -1,6 +1,6 @@
 +++
 title = "Culture and the Darwinian Renaissance in the social sciences and humanities"
-date = "2011"
+date = "2011-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Journal of Evolutionary Psychology, (9), 2, _pp. 109--124_"

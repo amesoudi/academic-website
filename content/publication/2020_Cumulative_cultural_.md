@@ -1,6 +1,6 @@
 +++
 title = "Cumulative cultural evolution within evolving population structures"
-date = "2020"
+date = "2020-01-01"
 authors = ["Maxime Derex", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Trends in Cognitive Sciences, https://doi.org/10.1016/j.tics.2020.04.005"

@@ -1,6 +1,6 @@
 +++
 title = "A bias for social information in human cultural transmission"
-date = "2006"
+date = "2006-01-01"
 authors = ["Alex Mesoudi", "Andrew Whiten", "Robin Dunbar"]
 publication_types = ["2"]
 publication = "British Journal of Psychology, (97), 3, _pp. 405--423_, https://doi.org/10.1348/000712605X85871"

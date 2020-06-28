@@ -1,6 +1,6 @@
 +++
 title = "The cultural dynamics of copycat suicide"
-date = "2009"
+date = "2009-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "PLoS ONE, (4), 9, _pp. e7252_"

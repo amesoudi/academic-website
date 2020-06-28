@@ -1,6 +1,6 @@
 +++
 title = "The hierarchical transformation of event knowledge in human cultural transmission"
-date = "2004"
+date = "2004-01-01"
 authors = ["Alex Mesoudi", "A. Whiten"]
 publication_types = ["2"]
 publication = "Journal of Cognition and Culture, (4), 1, _pp. 1--24_"

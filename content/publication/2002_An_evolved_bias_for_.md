@@ -1,6 +1,6 @@
 +++
 title = "An evolved bias for social information in human cultural transmission"
-date = "2002"
+date = "2002-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["3"]
 publication = "NA"

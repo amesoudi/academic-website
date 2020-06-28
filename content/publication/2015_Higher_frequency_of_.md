@@ -1,6 +1,6 @@
 +++
 title = "Higher frequency of social learning in China than in the West shows cultural variation in the dynamics of cultural evolution"
-date = "2015"
+date = "2015-01-01"
 authors = ["Alex Mesoudi", "Lei Chang", "Keelin Murray", "Huijing Lu"]
 publication_types = ["2"]
 publication = "Proceedings of the Royal Society B, (282), _pp. 20142209_"

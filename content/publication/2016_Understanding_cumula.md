@@ -1,6 +1,6 @@
 +++
 title = "Understanding cumulative cultural evolution"
-date = "2016"
+date = "2016-01-01"
 authors = ["Joseph Henrich", "Robert Boyd", "Maxime Derex", "Michelle A. Kline", "Alex Mesoudi", "Michael Muthukrishna", "Adam T. Powell", "Stephen J. Shennan", "Mark G. Thomas"]
 publication_types = ["2"]
 publication = "Proceedings of the National Academy of Sciences, (113), 44, _pp. E6724-E6725_, https://doi.org/10.1073/pnas.1610005113"

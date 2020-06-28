@@ -1,6 +1,6 @@
 +++
 title = "The transmission and evolution of human culture"
-date = "2005"
+date = "2005-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["3"]
 publication = "NA"

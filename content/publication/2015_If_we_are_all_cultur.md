@@ -1,6 +1,6 @@
 +++
 title = "If we are all cultural Darwinians what's the fuss about? Clarifying recent disagreements in the field of cultural evolution"
-date = "2015"
+date = "2015-01-01"
 authors = ["Alberto Acerbi", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Biology and Philosophy, (30), _pp. 481--503_"

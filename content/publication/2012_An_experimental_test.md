@@ -1,6 +1,6 @@
 +++
 title = "An experimental test of the accumulated copying error model of cultural mutation for Acheulean handaxe size"
-date = "2012"
+date = "2012-01-01"
 authors = ["Marius Kempe", "Stephen Lycett", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "PLOS ONE, (7), 11, _pp. e48333_"

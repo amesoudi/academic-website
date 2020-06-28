@@ -1,6 +1,6 @@
 +++
 title = "NERD and norms: Framework and experiments"
-date = "2008"
+date = "2008-01-01"
 authors = ["P. Danielson", "Alex Mesoudi", "R. Stanev"]
 publication_types = ["2"]
 publication = "Philosophy of Science, (75), 5, _pp. 786--798_"

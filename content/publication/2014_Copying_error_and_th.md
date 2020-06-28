@@ -1,6 +1,6 @@
 +++
 title = "Copying error and the cultural evolution of additive vs. reductive material traditions: An experimental assessment"
-date = "2014"
+date = "2014-01-01"
 authors = ["Kerstin Schillinger", "Alex Mesoudi", "Stephen J. Lycett"]
 publication_types = ["2"]
 publication = "American Antiquity, (79), 1, _pp. 128--143_"

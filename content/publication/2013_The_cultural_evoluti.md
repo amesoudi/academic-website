@@ -1,6 +1,6 @@
 +++
 title = "The cultural evolution of technology and science"
-date = "2013"
+date = "2013-01-01"
 authors = ["Alex Mesoudi", "K.N. Laland", "Robert Boyd", "B. Buchanan", "E. Flynn", "R.N. McCauley", "J. Renn", "V. {Reyes- Garcia}", "S.J. Shennan", "D. Stout", "C. Tennie"]
 publication_types = ["6"]
 publication = "NA"

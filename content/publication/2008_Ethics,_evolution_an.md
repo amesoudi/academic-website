@@ -1,6 +1,6 @@
 +++
 title = "Ethics, evolution and culture"
-date = "2008"
+date = "2008-01-01"
 authors = ["Alex Mesoudi", "P. Danielson"]
 publication_types = ["2"]
 publication = "Theory in Biosciences, (127), 3, _pp. 229--240_"

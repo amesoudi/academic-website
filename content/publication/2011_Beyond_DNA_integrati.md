@@ -1,6 +1,6 @@
 +++
 title = "Beyond DNA: integrating inclusive inheritance into an extended theory of evolution"
-date = "2011"
+date = "2011-01-01"
 authors = ["E. Danchin", "A. Charmantier", "F.A. Champagne", "Alex Mesoudi", "B. Pujol", "S. Blanchet"]
 publication_types = ["2"]
 publication = "Nature Reviews Genetics, (12), _pp. 475--486_"

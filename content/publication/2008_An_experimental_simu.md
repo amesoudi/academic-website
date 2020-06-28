@@ -1,6 +1,6 @@
 +++
 title = "An experimental simulation of the 'copy-successful-individuals' cultural learning strategy: Adaptive landscapes, producer-scrounger dynamics and informational access costs"
-date = "2008"
+date = "2008-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "Evolution and Human Behavior, (29), 5, _pp. 350--363_"
