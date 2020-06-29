@@ -1,7 +1,7 @@
 +++
 title = "Multilevel processes and cultural adaptation: Examples from past and present small-scale societies"
 date = "2016-01-01"
-authors = ["V. Reyes-Garc\'ia", "A. L. Balbo", "E. Gomez-Baggethun", "M. Gueze", "A. Mesoudi", "P. Richerson", "X. Rubio-Campillo", "I. Ruiz-Mallen", "S. Shennan"]
+authors = ["V. Reyes-Garcia", "A. L. Balbo", "E. Gomez-Baggethun", "M. Gueze", "A. Mesoudi", "P. Richerson", "X. Rubio-Campillo", "I. Ruiz-Mallen", "S. Shennan"]
 publication_types = ["2"]
 publication = "_Ecology and society : a journal of integrative science for resilience and sustainability_ 21. https://doi.org/10.5751/ES-08561-210402"
 publication_short = "_Ecology and society : a journal of integrative science for resilience and sustainability_ 21. https://doi.org/10.5751/ES-08561-210402"
