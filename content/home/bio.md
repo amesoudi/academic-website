@@ -46,7 +46,7 @@ subtitle = ""
  css_class = ""
 +++
 
-### {{% staticref "files/alex_mesoudi_cv.pdf" %}}Download full CV{{% /staticref %}}
+## {{% staticref "files/alex_mesoudi_cv.pdf" %}}Download full CV{{% /staticref %}}
 
 ### Faculty Positions
 
@@ -66,5 +66,3 @@ subtitle = ""
 * 2002-2005 PhD, University of St Andrews
 * 2001-2002 MSc Evolutionary Psychology, University of Liverpool
 * 1998-2001 BSc Psychology, University College London
-
-
