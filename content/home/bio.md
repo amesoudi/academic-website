@@ -9,11 +9,11 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Bio"
-subtitle = "Download CV"
+subtitle = "{{% staticref "files/alex_mesoudi_cv.pdf" %}}Download my CV{{% /staticref %}}"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
