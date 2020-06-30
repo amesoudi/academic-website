@@ -1,15 +1,12 @@
 +++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Bio"
-subtitle = "{{% staticref "files/alex_mesoudi_cv.pdf" %}}Download my CV{{% /staticref %}}"
+subtitle = ""
+#subtitle = "{{% staticref "files/alex_mesoudi_cv.pdf" %}}Download my CV{{% /staticref %}}"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,7 +47,7 @@ subtitle = "{{% staticref "files/alex_mesoudi_cv.pdf" %}}Download my CV{{% /stat
  css_class = ""
 +++
 
-My biography. I was born blah blah blah
+{{% staticref "files/alex_mesoudi_cv.pdf" %}}Download full CV{{% /staticref %}}
 
 ### Faculty Positions
 
