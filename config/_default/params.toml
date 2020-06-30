@@ -16,7 +16,7 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -93,7 +93,7 @@ phone = "(+44) 01326 253712"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Biosciences, University of Exeter Penryn Campus", city = "Penryn", region = "Cornwall", postcode = "TR10 9FE", country = "United Kingdom", country_code = "GB"}
+address = {street = "Biosciences, University of Exeter Penryn Campus", city = "Penryn", region = "Cornwall", postcode = "TR10 9FE, United Kingdom", country = "United Kingdom", country_code = "GB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -198,7 +198,7 @@ plugins_js  = []
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
