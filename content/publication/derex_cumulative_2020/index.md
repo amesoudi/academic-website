@@ -19,9 +19,10 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.cell.com/trends/cognitive-sciences/pdf/S1364-6613(20)30107-8.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661320301078%3Fshowall%3Dtrue"
+url_source = ""
 math = true
 highlight = true
+featured = true
 [header]
 image = ""
 caption = ""
