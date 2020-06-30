@@ -48,20 +48,20 @@ subtitle = ""
 
 ## {{% staticref "files/alex_mesoudi_cv.pdf" %}}Download full CV{{% /staticref %}}
 
-### Faculty Positions
+#### Faculty Positions
 
 * 2019-present Professor, Biosciences, University of Exeter
 * 2015-2019 Associate Professor, Biosciences, University of Exeter
 * 2012-2015 Reader [Associate Professor], Department of Anthropology, Durham University
 * 2008-2012 Lecturer [Assistant Professor], School of Biological and Chemical Sciences, Queen Mary University of London
 
-### Postdocs
+#### Postdocs
 
 * 2007-2008 Department of Social and Developmental Psychology, University of Cambridge
 * 2006-2007 Maurice Young Centre for Applied Ethics, University of British Columbia
 * 2005-2006 Department of Anthropology, University of Missouri-Columbia
 
-### Education
+#### Education
 
 * 2002-2005 PhD, University of St Andrews
 * 2001-2002 MSc Evolutionary Psychology, University of Liverpool
