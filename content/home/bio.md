@@ -6,7 +6,6 @@ weight = 25  # Order that this section will appear.
 
 title = "Bio"
 subtitle = ""
-#subtitle = "{{% staticref "files/alex_mesoudi_cv.pdf" %}}Download my CV{{% /staticref %}}"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,7 +46,7 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% staticref "files/alex_mesoudi_cv.pdf" %}}Download full CV{{% /staticref %}}
+### {{% staticref "files/alex_mesoudi_cv.pdf" %}}Download full CV{{% /staticref %}}
 
 ### Faculty Positions
 
