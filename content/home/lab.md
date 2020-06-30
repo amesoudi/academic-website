@@ -48,21 +48,21 @@ subtitle = ""
 
 Prospective postdocs and PhD students are welcome to email me at <a.mesoudi@exeter.ac.uk> to explore projects and funding.
 
-#### Current lab members
+### Current lab members
 
-* [Dr Charlotte Brand, Postdoctoral Research Associate](https://lottybrand.wordpress.com/)
-* [Dugald Foster, PhD student](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Dugald_Foster)
+* [Dr Charlotte Brand](https://lottybrand.wordpress.com/), Postdoctoral Research Associate, 2017-present 
+* [Dugald Foster](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Dugald_Foster), PhD student, 2019-present
 
 #### Former postdocs
 
-* [Maxime Derex, Marie Curie Fellow, 2017-2019 (now holds CNRS position at IAST in Toulouse)](https://maximederex.weebly.com/)
-* [Kesson Magid, ESRC funded postdoc, 2013-2016 (now at Department of Anthropology, Oxford)] (https://www.anthro.ox.ac.uk/people/dr-kesson-magid)
-* [Delwar Hussain, ESRC funded postdoc, 2013-2014 (now at Department of Anthropology, University of Edinburgh)](http://www.sps.ed.ac.uk/staff/social_anthropology/delwar_hussain)
+* [Maxime Derex](https://maximederex.weebly.com/), Marie Curie Fellow, 2017-2019 (now holds CNRS position at IAST in Toulouse)
+* [Kesson Magid](https://www.anthro.ox.ac.uk/people/dr-kesson-magid), ESRC funded postdoc, 2013-2016 (now at Department of Anthropology, Oxford)
+* [Delwar Hussain](http://www.sps.ed.ac.uk/staff/social_anthropology/delwar_hussain), ESRC funded postdoc, 2013-2014 (now at Department of Anthropology, University of Edinburgh)
 * Keelin Murray, ESRC funded postdoc, 2013-2014 (now employed outside academia)
 
 #### Former PhD students
 
-* [Angel V. Jimenez (Exeter, 2017-2020; passed with minor corrections within four years)](https://angelvicj.wixsite.com/blog)
-* [Alice Williams (Exeter, 2018-2019, took over as main supervisor; passed with minor corrections within four years)](https://alicejeanwilliams.wordpress.com/)
+* [Angel V. Jimenez](https://angelvicj.wixsite.com/blog), University of Exeter, 2017-2020; passed with minor corrections within four years
+* [Alice Williams](https://alicejeanwilliams.wordpress.com/), University of Exeter, 2018-2019 (took over as main supervisor); passed with minor corrections within four years
 * Marius Kempe (Queen Mary / Durham, 2010-2013; passed with minor corrections within four years; now faculty at St John’s College, Annapolis, USA)
 * Vera Sarkol (Queen Mary, 2010-2014; passed with minor corrections within four years; now employed outside academia)
