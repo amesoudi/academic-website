@@ -21,7 +21,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 math = true
-highlight = false
+highlight = true
 [header]
 image = ""
 caption = ""

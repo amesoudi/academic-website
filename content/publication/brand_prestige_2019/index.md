@@ -1,7 +1,7 @@
 +++
 title = "Prestige and dominance-based hierarchies exist in naturally occurring human groups, but are unrelated to task-specific knowledge"
 date = "2019-01-01"
-authors = ["C. O. Brand", "A. Mesoudi"]
+authors = ["Charlotte O. Brand", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "_Royal Society Open Science_ 6, 181621. https://doi.org/10.1098/rsos.181621"
 publication_short = "_Royal Society Open Science_ 6, 181621. https://doi.org/10.1098/rsos.181621"

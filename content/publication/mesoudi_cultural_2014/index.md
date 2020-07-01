@@ -1,5 +1,5 @@
 +++
-title = "Cultural evolution in more than two dimensions: Distinguishing social learning biases and identifying payoff structures"
+title = "Cultural evolution in more than two dimensions: Distinguishing social learning biases and identifying payoff structures. A comment on Bentley et al. (2014)"
 date = "2014-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
