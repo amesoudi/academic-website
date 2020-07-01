@@ -1,7 +1,7 @@
 +++
 title = "Factors affecting Acheulean handaxe variation: Experimental insights, microevolutionary processes, and macroevolutionary outcomes"
 date = "2016-01-01"
-authors = ["Stephen J. Lycett", "Kerstin Schillinger", "Metin I. Eren", "Noreen {von Cramon-Taubadel}", "Alex Mesoudi"]
+authors = ["Stephen J. Lycett", "Kerstin Schillinger", "Metin I. Eren", "Noreen von Cramon-Taubadel", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "_Quaternary International_ 411, 386--401. https://doi.org/10.1016/j.quaint.2015.08.021"
 publication_short = "_Quaternary International_ 411, 386--401. https://doi.org/10.1016/j.quaint.2015.08.021"
