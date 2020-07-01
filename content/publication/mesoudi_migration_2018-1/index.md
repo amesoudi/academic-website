@@ -9,6 +9,7 @@ abstract = "How do migration and acculturation (i.e. psychological or behavioral
 abstract_short = ""
 image_preview = ""
 selected = false
+featured = true
 projects = []
 tags = []
 url_pdf = "files/papers/Mesoudi_PLOSONE_2018.pdf"
