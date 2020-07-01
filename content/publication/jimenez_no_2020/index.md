@@ -11,10 +11,10 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = ""
-url_preprint = ""
+url_pdf = "files/papers/Jimenez_etal_PLOSONE_2020.pdf"
+url_preprint = "https://psyarxiv.com/uqdn6/"
 url_code = ""
-url_dataset = ""
+url_dataset = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228898#sec018"
 url_project = ""
 url_slides = ""
 url_video = ""
