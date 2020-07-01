@@ -1,7 +1,7 @@
 +++
 title = "The cultural evolution of technology and science"
 date = "2013-01-01"
-authors = ["Alex Mesoudi", "Kevin N. Laland", "Robert Boyd", "Briggs Buchanan", "Emma Flynn", "Robert N. McCauley", "Jurgen Renn", "Victoria Reyes-Garc\'ia", "Stephen Shennan", "Dietrich Stout", "Claudio Tennie"]
+authors = ["Alex Mesoudi", "Kevin N. Laland", "Robert Boyd", "Briggs Buchanan", "Emma Flynn", "Robert N. McCauley", "Jurgen Renn", "Victoria Reyes-Garcia", "Stephen Shennan", "Dietrich Stout", "Claudio Tennie"]
 publication_types = ["6"]
 publication = "In NA (ed.) _Cultural evolution: society, technology, language, and religion_. MIT Press, pp. 193--216"
 publication_short = "In NA (ed.) _Cultural evolution: society, technology, language, and religion_. MIT Press, pp. 193--216"
