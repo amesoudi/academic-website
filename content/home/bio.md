@@ -46,7 +46,7 @@ subtitle = ""
  css_class = ""
 +++
 
-### {{% staticref "files/alex_mesoudi_cv.pdf" %}}Download full CV{{% /staticref %}}
+{{% staticref "files/alex_mesoudi_cv.pdf" %}}Download full CV{{% /staticref %}}
 
 #### Faculty Positions
 
