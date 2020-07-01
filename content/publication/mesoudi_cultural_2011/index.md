@@ -20,7 +20,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://press.uchicago.edu/ucp/books/book/chicago/C/bo8787504.html"
 math = true
 highlight = true
 [header]

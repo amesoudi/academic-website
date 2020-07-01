@@ -19,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.routledge.com/The-Nature-and-Development-of-Mathematics-Cross-Disciplinary-Perspectives/Adams-Barmby-Mesoudi/p/book/9781138124417"
 math = true
 highlight = true
 [header]

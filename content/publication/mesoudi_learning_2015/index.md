@@ -19,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://link.springer.com/book/10.1007%2F978-4-431-55363-2"
 math = true
 highlight = true
 [header]
