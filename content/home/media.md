@@ -56,7 +56,7 @@ Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds
 <hr>
 
 <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html">
-  <img src="/img/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:100px;">
+  <img src="/img/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:167px;">
 </a>
 
 [<h4>Al Jazeera America: Do different generations of immigrants think differently?</h4>](http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html)
@@ -64,4 +64,11 @@ Feature/interview on the cross-cultural thinking styles project by novelist Ned 
 
 <hr>
 
+<a href="https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/">
+  <img src="/img/theforum.jpg" alt="The Forum" style="width:150px;height:150px;">
+</a>
 
+[<h4>The Forum Debate: Darwinism and the Social Sciences</h4>](https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/)
+Panellist. Organised by the Forum for European Philosophy, London School of Economics
+
+<hr>
