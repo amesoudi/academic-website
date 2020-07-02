@@ -72,3 +72,8 @@ Feature/interview on the cross-cultural thinking styles project by novelist Ned 
 Panellist. Organised by the Forum for European Philosophy, London School of Economics
 
 <hr>
+
+{{< youtube 8odzOGK-8hE >}}
+This talk was presented at the National Academy of Sciences Arthur M. Sackler Colloquium on the Extension of Biology Through Culture held at the Beckman Center in Irvine, CA on November 15-16, 2016, organized by Marcus Feldman, Francisco J. Ayala, Andrew Whiten and Kevin Laland.
+
+<hr>
