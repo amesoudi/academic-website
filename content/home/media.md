@@ -50,12 +50,18 @@ subtitle = ""
   <img src="/img/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;">
 </a>
 
-[####  BBC Radio 4: The Human Zoo](https://www.bbc.co.uk/programmes/b07jysds)
-
-
+[<h4>BBC Radio 4: The Human Zoo</h4>](https://www.bbc.co.uk/programmes/b07jysds)
 Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds
 
 <hr>
 
-next one
+<a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html">
+  <img src="/img/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:100px;">
+</a>
+
+[<h4>Al Jazeera America: Do different generations of immigrants think differently?</h4>](http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html)
+Feature/interview on the cross-cultural thinking styles project by novelist Ned Beauman
+
+<hr>
+
 
