@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "[List of all publications](publication/)"
+subtitle = "[List of all publications](publication/)\nGoogle Scholar page"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -46,7 +46,7 @@ subtitle = "[List of all publications](publication/)"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "Silver"
+  color = "AliceBlue"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
