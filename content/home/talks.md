@@ -50,7 +50,7 @@ subtitle = ""
 
 Presentation at the National Academy of Sciences Arthur M. Sackler Colloquium on the Extension of Biology Through Culture held at the Beckman Center in Irvine, CA on November 15-16, 2016, organized by Marcus Feldman, Francisco J. Ayala, Andrew Whiten and Kevin Laland.
 
-<hr>
+<br>
 
 {{< youtube yT32gKqQEFU >}}
 
