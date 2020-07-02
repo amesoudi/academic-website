@@ -47,10 +47,12 @@ subtitle = ""
 +++
 
 {{< youtube 8odzOGK-8hE >}}
-This talk was presented at the National Academy of Sciences Arthur M. Sackler Colloquium on the Extension of Biology Through Culture held at the Beckman Center in Irvine, CA on November 15-16, 2016, organized by Marcus Feldman, Francisco J. Ayala, Andrew Whiten and Kevin Laland.
+
+Presentation at the National Academy of Sciences Arthur M. Sackler Colloquium on the Extension of Biology Through Culture held at the Beckman Center in Irvine, CA on November 15-16, 2016, organized by Marcus Feldman, Francisco J. Ayala, Andrew Whiten and Kevin Laland.
 
 <hr>
 
 {{< youtube yT32gKqQEFU >}}
-Towards A Science Of Culture Within A Darwinian Evolutionary Framework. Moderator: Itamar Even-Zohar. Tel-Aviv, Israel. 2nd June 2015
+
+Towards A Science Of Culture Within A Darwinian Evolutionary Framework. Moderator: Prof. Itamar Even-Zohar. Tel-Aviv, Israel. 2nd June 2015
 
