@@ -46,8 +46,6 @@ subtitle = "[Download full CV](https://alex-mesoudi.netlify.app/files/alex_mesou
  css_class = ""
 +++
 
-{{% staticref "files/alex_mesoudi_cv.pdf" %}}Download full CV{{% /staticref %}}
-
 #### Faculty Positions
 
 * 2019-present Professor, Biosciences, University of Exeter
