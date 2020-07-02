@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Lab"
-subtitle = "Prospective postdocs and PhD students are welcome to email me at <a.mesoudi@exeter.ac.uk> to explore projects and funding."
+subtitle = "**Prospective postdocs and PhD students are welcome to email me at <a.mesoudi@exeter.ac.uk> to explore projects and funding.**"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -53,14 +53,14 @@ subtitle = "Prospective postdocs and PhD students are welcome to email me at <a.
 
 #### Former postdocs
 
-* [Maxime Derex](https://maximederex.weebly.com/), Marie Curie Fellow, 2017-2019 (now holds CNRS position at IAST in Toulouse)
-* [Kesson Magid](https://www.anthro.ox.ac.uk/people/dr-kesson-magid), ESRC funded postdoc, 2013-2016 (now at Department of Anthropology, Oxford)
-* [Delwar Hussain](http://www.sps.ed.ac.uk/staff/social_anthropology/delwar_hussain), ESRC funded postdoc, 2013-2014 (now at Department of Anthropology, University of Edinburgh)
-* Keelin Murray, ESRC funded postdoc, 2013-2014 (now employed outside academia)
+* [Dr Maxime Derex](https://maximederex.weebly.com/), Marie Curie Fellow, 2017-2019 (now holds CNRS position at IAST in Toulouse)
+* [Dr Kesson Magid](https://www.anthro.ox.ac.uk/people/dr-kesson-magid), ESRC funded postdoc, 2013-2016 (now at Department of Anthropology, Oxford)
+* [Dr Delwar Hussain](http://www.sps.ed.ac.uk/staff/social_anthropology/delwar_hussain), ESRC funded postdoc, 2013-2014 (now at Department of Anthropology, University of Edinburgh)
+* Dr Keelin Murray, ESRC funded postdoc, 2013-2014 (now employed outside academia)
 
 #### Former PhD students
 
-* [Angel V. Jimenez](https://angelvicj.wixsite.com/blog), University of Exeter, 2017-2020; passed with minor corrections within four years
-* [Alice Williams](https://alicejeanwilliams.wordpress.com/), University of Exeter, 2018-2019 (took over as main supervisor); passed with minor corrections within four years
-* Marius Kempe, Queen Mary / Durham University, 2010-2013; passed with minor corrections within four years (now faculty at St John’s College, Annapolis, USA)
-* Vera Sarkol, Queen Mary, 2010-2014; passed with minor corrections within four years (now employed outside academia
+* [Dr Angel V. Jimenez](https://angelvicj.wixsite.com/blog), University of Exeter, 2017-2020; passed with minor corrections within four years
+* [Dr Alice Williams](https://alicejeanwilliams.wordpress.com/), University of Exeter, 2018-2019 (took over as main supervisor); passed with minor corrections within four years
+* Dr Marius Kempe, Queen Mary / Durham University, 2010-2013; passed with minor corrections within four years (now faculty at St John’s College, Annapolis, USA)
+* Dr Vera Sarkol, Queen Mary, 2010-2014; passed with minor corrections within four years (now employed outside academia
