@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Lab"
-subtitle = ""
+subtitle = "Prospective postdocs and PhD students are welcome to email me at <a.mesoudi@exeter.ac.uk> to explore projects and funding."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -45,8 +45,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Prospective postdocs and PhD students are welcome to email me at <a.mesoudi@exeter.ac.uk> to explore projects and funding.
 
 ### Current lab members
 
