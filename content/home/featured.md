@@ -6,7 +6,7 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 35  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Selected Publications"
 subtitle = "[List of all publications](publication/)<br>[Google Scholar page](https://scholar.google.co.uk/citations?user=0xYctXoAAAAJ&hl=en)"
@@ -46,7 +46,7 @@ subtitle = "[List of all publications](publication/)<br>[Google Scholar page](ht
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "WhiteSmoke"
+  # color = "WhiteSmoke"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
