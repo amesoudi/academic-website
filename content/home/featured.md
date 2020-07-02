@@ -46,7 +46,7 @@ subtitle = "[List of all publications](publication/)<br>[Google Scholar page](ht
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "AliceBlue"
+  color = "Gainsboro"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
