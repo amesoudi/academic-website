@@ -94,7 +94,7 @@ subtitle = ""
 
 <br>
 
-<h2>4. Migration, acculturation and cross-cultural variation</h2>
+<h2>4. Migration, Acculturation and Cross-Cultural Variation</h2>
 
 <p><img src="/img/acculturation.png" alt="Acculturation of attribution style" style="width:350px;margin-left:20px;margin-right:20px;margin-bottom:10px;float:right;">Ever since our species dispersed out of Africa, migration has been a constant fixture of <i>Homo sapiens</i>. 'Acculturation' describes the psychological and behavioural changes that occur as a result of migration. I have recently studied how acculturation affects the psychological characteristics of first and second generation British Bangladeshi migrants in London, as well as theoretical models of how acculturation and migration interact to shape cultural diversity over time. Lab experiments have mapped cross-cultural variation in social learning, showing higher rates of social learning in mainland China than in the West.</p>
 
