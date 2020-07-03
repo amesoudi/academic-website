@@ -92,11 +92,11 @@ new bit!
 }
 
 .left {
-  width: 40%;
+  width: 30%;
 }
 
 .right {
-  width: 60%;
+  width: 70%;
 }
 
 .row:after {
@@ -118,10 +118,12 @@ new bit!
   </div>
 </div>
 
+<br>
+
 <div class="row">
   <div class="column left">
     <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html">
-  <img src="/img/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:167px;margin-right:15px;">
+  <img src="/img/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:167px;">
 </a>
   </div>
   <div class="column right">
@@ -131,10 +133,12 @@ new bit!
   </div>
 </div>
 
+<br>
+
 <div class="row">
   <div class="column left">
     <a href="https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/">
-  <img src="/img/theforum.jpg" alt="The Forum" style="width:150px;height:150px;margin-right:15px;">
+  <img src="/img/theforum.jpg" alt="The Forum" style="width:150px;height:150px;">
 </a>
   </div>
   <div class="column right">
