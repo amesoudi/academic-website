@@ -63,16 +63,74 @@ subtitle = ""
 
 <h2>2. Social Learning Experiments</h2>
 
-<p><img src="/img/arrowhead_bilateral.jpg" alt="Arrowhead task screenshot" style="width:350px;margin-right:20px;float:right;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+<p><img src="/img/arrowhead_bilateral.jpg" alt="Arrowhead task screenshot" style="width:350px;margin-right:20px;float:right;">Learning from others, aka 'social learning', lies at the heart of human culture. I have run several lab experiments examining how people learn from one another, who they learn from, when they learn from others rather than alone, and what they learn. Some studies use the 'transmission chain method', where stories or task solutions are passed along linear chains of participants like the game 'Telephone'. These have found, for example, that information about social relationships and interactions is transmitted better than non-social information. Other studies look at how people within fixed groups learn from one another over time. Often these experiments look at technological change, getting participants to design arrowheads, handaxes or other objects reflecting real-life human technology. Previous findings have shown that people prefer to learn from successful others, but often copy others less than they should do; and that causal understanding is often not necessary for improvements in technologies.</p>
+
+<h5>Representative publications:</h5>
+
+[Derex, Bonnefon, Boyd and Mesoudi (2019) Causal understanding is not necessary for the improvement of culturally evolving technology. _Nature Human Behaviour_ 3, 446–452.]({{< ref "/publication/derex_causal_2019/index.md" >}})
+
+[Kempe, Lycett and Mesoudi (2012) An experimental test of the accumulated copying error model of cultural mutation for Acheulean handaxe size. _PLOS ONE_ 7, e48333.]({{< ref "/publication/kempe_experimental_2012/index.md" >}})
+
+[Mesoudi (2011) An experimental comparison of human social learning strategies: payoff-biased social learning is adaptive but underused. _Evolution and Human Behavior_ 32, 334–342.]({{< ref "/publication/mesoudi_experimental_2011/index.md" >}})
+
+[Mesoudi, Whiten and Dunbar (2006) A bias for social information in human cultural transmission. _British Journal of Psychology_ 97, 405–423.]({{< ref "/publication/mesoudi_bias_2006/index.md" >}})
 
 <br>
 
 <h2>3. Models of Cultural Evolution</h2>
 
-<p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:250px;margin-right:20px;float:right;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+<p><img src="/img/kempe_model.png" alt="Kempe et al. model" style="width:250px;margin-right:20px;float:right;">I have used theoretical models, primarily agent-based simulations, to explore how different learning dynamics - who copies what, from whom and when - might generate large-scale patterns of cultural evolution. Previous models have looked at beliefs in partible paternity (where children have more than one biological 'father'), copycat suicide, and how the costs of acquiring ever-accumulating knowledge slows down innovation in cumulative cultural evolution.</p>
+
+<h5>Representative publications:</h5>
+
+[Kempe, Lycett and Mesoudi (2014) From cultural traditions to cumulative culture: Parameterizing the differences between human and nonhuman culture. _Journal of Theoretical Biology_ 359, 29–36.]({{< ref "/publication/kempe_cultural_2014/index.md" >}})
+
+[Mesoudi (2011) Variable cultural acquisition costs constrain cumulative cultural evolution. _PLOS ONE_ 6, e18239.]({{< ref "/publication/mesoudi_variable_2011/index.md" >}})
+
+[Mesoudi (2009) The cultural dynamics of copycat suicide. _PLOS ONE_ 4, e7252.]({{< ref "/publication/mesoudi_cutural_2009/index.md" >}})
+
+[Mesoudi and Laland (2007) Culturally transmitted paternity beliefs and the evolution of human mating behaviour. _Proceedings of the Royal Society B_ 274, 1273–1278.]({{< ref "/publication/mesoudi_cuturally_2007/index.md" >}})
+
 
 <br>
 
-<h2>4. Migration and acculturation</h2>
+<h2>4. Migration, acculturation and cross-cultural variation</h2>
 
-<p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:250px;margin-right:20px;float:right;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+<p><img src="/img/acculturation.png" alt="Acculturation of attribution style" style="width:250px;margin-right:20px;float:right;">Ever since our species dispersed out of Africa, migration has been a constant fixture of _Homo sapiens_. 'Acculturation' describes the psyschological and behavioural changes that occur as a result of migration. I have recently studied how acculturation affects the psychological characteristics of first and second generation British Bangladeshis in London, as well as theoretical models of how acculturation affects cross-cultural diversity over time. Lab experiments have mapped cross-cultural variation in social learning, showing higher rates of social learning in mainland China than in the West.</p>
+
+<h5>Representative publications:</h5>
+
+[Mesoudi (2018) Migration, acculturation, and the maintenance of between-group cultural variation. _PLOS ONE_ 13, e0205573.]({{< ref "/publication/mesoudi_migration_2018-1/index.md" >}})
+
+[Mesoudi, Magid and Hussain (2016) How do people become W.E.I.R.D.? Migration reveals the cultural transmission mechanisms underlying variation in psychological processes. _PLOS ONE_ 11, e0147162.]({{< ref "/publication/mesoudi_how_2016/index.md" >}})
+
+[Mesoudi, Chang, Dall and Thornton (2016) The evolution of individual and cultural variation in social learning. _Trends in Ecology and Evolution_ 31, 215–225.]({{< ref "/publication/mesoudi_evolution_2016/index.md" >}})
+
+[Mesoudi, Chang, Murray and Lu (2015) Higher frequency of social learning in China than in the West shows cultural variation in the dynamics of cultural evolution. _Proceedings of the Royal Society B_ 282, 20142209.]({{< ref "/publication/mesoudi_higher_2015/index.md" >}})
+
+<br>
+
+<h2>5. Prestige</h2>
+
+<p><img src="/img/prestige.png" alt="Prestige figure from Brand and Mesoudi" style="width:250px;margin-right:20px;float:right;">People often preferentialy learn from high-status, respected and knowledgeable individuals within their societies. This tendency is known as 'prestige-biased social learning'. A series of recent lab experiments and reviews have tested the extent to which people form prestige hierarchies in naturally-occurring human groups, and when people employ prestige-biased social learning.</p>
+
+<h5>Representative publications:</h5>
+
+[Brand and Mesoudi (2019) Prestige and dominance-based hierarchies exist in naturally occurring human groups, but are unrelated to task-specific knowledge. _Royal Society Open Science_ 6, 181621.]({{< ref "/publication/brand_prestige_2019/index.md" >}})
+
+[Jimenez and Mesoudi (2019) Prestige-biased social learning: current evidence and outstanding questions. _Palgrave Communications_ 5, 20.]({{< ref "/publication/jimenez_prestige_2019/index.md" >}})
+
+[Atkisson, O'Brien and Mesoudi (2012) Adult learners in a novel environment use prestige-biased social learning. _Evolutionary Psychology_ 10, 147470491201000309.]({{< ref "/publication/atkisson_adult_2012/index.md" >}})
+
+<br>
+
+<h2>6. Real World Cultural Evolution</h2>
+
+<p><img src="/img/formations.png" alt="Football formations" style="width:250px;margin-right:20px;float:right;">The digital age has yielded big cultural datasets that can be used to quantitatively analyse patterns of real-life cultural evolution. Two recent projects have analysed how large-scale, long-term changes in pop music lyrics and in football tactics can be explained in terms of underlying social learning biases.</p>
+
+<h5>Representative publications:</h5>
+
+[Mesoudi (2020) Cultural evolution of football tactics: strategic social learning in managers' choice of formation. _Evolutionary Human Sciences_ 2, e25.]({{< ref "/publication/mesoudi_cultural_2020/index.md" >}})
+
+[Brand, Acerbi and Mesoudi (2019) Cultural evolution of emotional expression in 50 years of song lyrics. _Evolutionary Human Sciences_ 1, e11.]({{< ref "/publication/brand_cultural_2019/index.md" >}})
+
