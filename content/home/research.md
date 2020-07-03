@@ -9,7 +9,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -48,7 +48,7 @@ subtitle = ""
 
 <h3>Human Cultural Evolution</h3>
 
-<p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:250px;margin-right:20px;float:right;">The human species has an extraordinary reliance on culture, i.e. the vast body of socially transmitted beliefs, knowledge and skills that we acquire from other individuals via social learning. While other species adapt to their environments primarily via genetic evolution, we adapt via cultural evolution. I am interested in how this process of cultural evolution works, its similarities and differences to genetic evolution, and how traditional social science findings and topics can be studied within an evolutionary framework.</p>
+<p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:200px;margin-left:20px;float:right;">The human species has an extraordinary reliance on culture, i.e. the vast body of socially transmitted beliefs, knowledge and skills that we acquire from other individuals via social learning. While other species adapt to their environments primarily via genetic evolution, we adapt via cultural evolution. I am interested in how this process of cultural evolution works, its similarities and differences to genetic evolution, and how traditional social science findings and topics can be studied within an evolutionary framework.</p>
 
 <p><h5>Representative publications:</h5>
 
