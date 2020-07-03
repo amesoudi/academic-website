@@ -87,9 +87,9 @@ subtitle = ""
 
 [Mesoudi (2011) Variable cultural acquisition costs constrain cumulative cultural evolution. _PLOS ONE_ 6, e18239.]({{< ref "/publication/mesoudi_variable_2011/index.md" >}})
 
-[Mesoudi (2009) The cultural dynamics of copycat suicide. _PLOS ONE_ 4, e7252.]({{< ref "/publication/mesoudi_cutural_2009/index.md" >}})
+[Mesoudi (2009) The cultural dynamics of copycat suicide. _PLOS ONE_ 4, e7252.]({{< ref "/publication/mesoudi_cultural_2009/index.md" >}})
 
-[Mesoudi and Laland (2007) Culturally transmitted paternity beliefs and the evolution of human mating behaviour. _Proceedings of the Royal Society B_ 274, 1273–1278.]({{< ref "/publication/mesoudi_cuturally_2007/index.md" >}})
+[Mesoudi and Laland (2007) Culturally transmitted paternity beliefs and the evolution of human mating behaviour. _Proceedings of the Royal Society B_ 274, 1273–1278.]({{< ref "/publication/mesoudi_culturally_2007/index.md" >}})
 
 
 <br>
@@ -118,7 +118,7 @@ subtitle = ""
 
 [Brand and Mesoudi (2019) Prestige and dominance-based hierarchies exist in naturally occurring human groups, but are unrelated to task-specific knowledge. _Royal Society Open Science_ 6, 181621.]({{< ref "/publication/brand_prestige_2019/index.md" >}})
 
-[Jimenez and Mesoudi (2019) Prestige-biased social learning: current evidence and outstanding questions. _Palgrave Communications_ 5, 20.]({{< ref "/publication/jimenez_prestige_2019/index.md" >}})
+[Jimenez and Mesoudi (2019) Prestige-biased social learning: current evidence and outstanding questions. _Palgrave Communications_ 5, 20.]({{< ref "/publication/jimenez_prestige-biased_2019/index.md" >}})
 
 [Atkisson, O'Brien and Mesoudi (2012) Adult learners in a novel environment use prestige-biased social learning. _Evolutionary Psychology_ 10, 147470491201000309.]({{< ref "/publication/atkisson_adult_2012/index.md" >}})
 

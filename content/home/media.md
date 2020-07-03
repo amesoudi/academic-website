@@ -46,104 +46,28 @@ subtitle = ""
  css_class = ""
 +++
 
-<style>
-img {
-  float: left;
-}
-</style>
-
-<p>
-<a href="https://www.bbc.co.uk/programmes/b07jysds"><img src="/img/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;margin-right:15px;">
+<a href="https://www.bbc.co.uk/programmes/b07jysds">
+  <img src="/img/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;">
 </a>
 
-[BBC Radio 4: The Human Zoo](https://www.bbc.co.uk/programmes/b07jysds) Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds
-</p>
+[<h4>BBC Radio 4: The Human Zoo</h4>](https://www.bbc.co.uk/programmes/b07jysds)
+Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds
 
 <br>
 
-<p>
 <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html">
-  <img src="/img/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:167px;margin-right:15px;">
-</a>
-
-[Al Jazeera America: Do different generations of immigrants think differently?](http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html) Feature by novelist Ned Beauman
-</p>
-
-<br>
-
-<p>
-<a href="https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/">
-  <img src="/img/theforum.jpg" alt="The Forum" style="width:150px;height:150px;margin-right:15px;">
-</a>
-
-[The Forum Debate: Darwinism and the Social Sciences](https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/) Panellist. Organised by the Forum for European Philosophy, London School of Economics
-</p>
-
-new bit!
-
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  padding: 10px;
-}
-
-.left {
-  width: 30%;
-}
-
-.right {
-  width: 70%;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-
-<div class="row">
-  <div class="column left">
-    <a href="https://www.bbc.co.uk/programmes/b07jysds"><img src="/img/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;">
-</a>
-  </div>
-  <div class="column right">
-    
-[BBC Radio 4: The Human Zoo](https://www.bbc.co.uk/programmes/b07jysds) Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds
-
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <div class="column left">
-    <a href="http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html">
   <img src="/img/Al_Jazeera_America_Logo.png" alt="Al Jazeera America" style="width:150px;height:167px;">
 </a>
-  </div>
-  <div class="column right">
-    
-[Al Jazeera America: Do different generations of immigrants think differently?](http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html) Feature/interview by novelist Ned Beauman
 
-  </div>
-</div>
+[<h4>Al Jazeera America: Do different generations of immigrants think differently?</h4>](http://america.aljazeera.com/articles/2016/2/24/do-different-generations-of-immigrants-think-differently.html)
+Feature/interview on the cross-cultural thinking styles project by novelist Ned Beauman
 
 <br>
 
-<div class="row">
-  <div class="column left">
-    <a href="https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/">
+<a href="https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/">
   <img src="/img/theforum.jpg" alt="The Forum" style="width:150px;height:150px;">
 </a>
-  </div>
-  <div class="column right">
-    
-[The Forum Debate: Darwinism and the Social Sciences](https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/) Panellist. Organised by the Forum for European Philosophy, London School of Economics
 
-  </div>
-</div>
+[<h4>The Forum Debate: Darwinism and the Social Sciences</h4>](https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/)
+Panellist. Organised by the Forum for European Philosophy, London School of Economics
+
