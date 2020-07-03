@@ -46,17 +46,25 @@ subtitle = ""
  css_class = ""
 +++
 
-<h3>Cultural evolution</h3>
+<h3>Human Cultural Evolution</h3>
 
-<p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:250px;margin-right:20px;float:right;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+<p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:250px;margin-right:20px;float:right;">The human species has an extraordinary reliance on culture, i.e. the vast body of socially transmitted beliefs, knowledge and skills that we acquire from other individuals via social learning. While other species adapt to their environments primarily via genetic evolution, we adapt via cultural evolution. I am interested in how this process of cultural evolution works, its similarities and differences to genetic evolution, and how traditional social science findings and topics can be studied within an evolutionary framework.</p>
 
-<h3>Social learning experiments</h3>
+<p><h5>Representative publications:</h5>
+
+[Mesoudi (2011) _Cultural evolution: How Darwinian theory can explain human culture and synthesize the social sciences._ University of Chicago Press.]({{< ref "/publication/mesoudi_cultural_2011/index.md" >}})
+
+[Mesoudi (2017). Pursuing Darwin's curious parallel: Prospects for a science of cultural evolution. _Proceedings of the National Academy of Sciences_ 114, 7853–7860.]({{< ref "/publication/mesoudi_pursuing_2017/index.md" >}})
+
+<br>
+
+<h3>Social Learning Experiments</h3>
 
 <p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:250px;margin-right:20px;float:right;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
 
 <br>
 
-<h3>Models of cultural evolution</h3>
+<h3>Models of Cultural Evolution</h3>
 
 <p><img src="/img/book_cover.png" alt="Cultural Evolution book cover" style="width:250px;margin-right:20px;float:right;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
 
