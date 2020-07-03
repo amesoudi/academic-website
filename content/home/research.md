@@ -55,15 +55,15 @@ subtitle = ""
 
 [Mesoudi (2011) _Cultural evolution: How Darwinian theory can explain human culture and synthesize the social sciences._ University of Chicago Press.]({{< ref "/publication/mesoudi_cultural_2011/index.md" >}})
 
-[Mesoudi (2006) Mesoudi, Whiten and Laland (2006) Towards a unified science of cultural evolution. _Behavioral and Brain Sciences_ 29, 329–383.]({{< ref "/publication/mesoudi_towards_2006/index.md" >}})
+[Mesoudi, Whiten and Laland (2006) Towards a unified science of cultural evolution. _Behavioral and Brain Sciences_ 29, 329–383.]({{< ref "/publication/mesoudi_towards_2006/index.md" >}})
 
-[Mesoudi (2004) Mesoudi, Whiten and Laland (2004) Is human cultural evolution Darwinian? Evidence reviewed from the perspective of The Origin of Species. _Evolution_ 58, 1–11.]({{< ref "/publication/mesoudi_is_2004/index.md" >}})
+[Mesoudi, Whiten and Laland (2004) Is human cultural evolution Darwinian? Evidence reviewed from the perspective of The Origin of Species. _Evolution_ 58, 1–11.]({{< ref "/publication/mesoudi_is_2004/index.md" >}})
 
 <br>
 
 <h2>2. Social Learning Experiments</h2>
 
-<p><img src="/img/arrowhead_bilateral.jpg" alt="Arrowhead task screenshot" style="width:250px;margin-right:20px;float:right;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+<p><img src="/img/arrowhead_bilateral.jpg" alt="Arrowhead task screenshot" style="width:350px;margin-right:20px;float:right;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
 
 <br>
 
