@@ -46,12 +46,18 @@ subtitle = ""
  css_class = ""
 +++
 
-<a href="https://www.bbc.co.uk/programmes/b07jysds">
-  <img src="/img/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;">
+<style>
+img {
+  float: left;
+}
+</style>
+
+<p><a href="https://www.bbc.co.uk/programmes/b07jysds">
+  <img src="/img/radio4.jpg" alt="BBC Radio 4" style="width:150px;height:100px;margin-right:15px;">
 </a>
 
 [<h4>BBC Radio 4: The Human Zoo</h4>](https://www.bbc.co.uk/programmes/b07jysds)
-Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds
+Contributor, Series 8 Episode 4: Democracy and the Wisdom of the Crowds</p>
 
 <br>
 
