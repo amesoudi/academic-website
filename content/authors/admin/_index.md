@@ -78,6 +78,4 @@ I use **experiments** to simulate cultural evolution in the lab. I get people to
 
 I construct **models** of cultural evolution. These explore how individual decisions (e.g. when and from whom people learn) translate into population-level patterns of cultural change. I have modeled cumulative technological change, copycat suicides, and the effects of migration on cultural diversity.
 
-I analyse **big datasets** to explain real world patterns of cultural evolution. Recent analyses have explored the cultural evolution of pop music and football tactics.
-
-Recent projects have examined **prestige hierarchies and prestige-biased social learning** and how **migration and acculturation shape cultural diversity**. You can read more on the [Research](#research) page below.
+I analyse **big datasets** to explain real world patterns of cultural evolution. Recent analyses have explored the cultural evolution of pop music and football tactics. You can read more about all these projects on the [Research](#research) page below.
