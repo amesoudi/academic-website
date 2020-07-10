@@ -51,13 +51,13 @@ subtitle = ""
 
 <h5>Representative publications:</h5>
 
-<small>[Mesoudi (2017) Pursuing Darwin's curious parallel: Prospects for a science of cultural evolution. _Proceedings of the National Academy of Sciences_ 114, 7853–7860.]({{< ref "/publication/mesoudi_pursuing_2017/index.md" >}})
+[Mesoudi (2017) Pursuing Darwin's curious parallel: Prospects for a science of cultural evolution. _Proceedings of the National Academy of Sciences_ 114, 7853–7860.]({{< ref "/publication/mesoudi_pursuing_2017/index.md" >}})
 
 [Mesoudi (2011) _Cultural evolution: How Darwinian theory can explain human culture and synthesize the social sciences._ University of Chicago Press.]({{< ref "/publication/mesoudi_cultural_2011/index.md" >}})
 
 [Mesoudi, Whiten and Laland (2006) Towards a unified science of cultural evolution. _Behavioral and Brain Sciences_ 29, 329–383.]({{< ref "/publication/mesoudi_towards_2006/index.md" >}})
 
-[Mesoudi, Whiten and Laland (2004) Is human cultural evolution Darwinian? Evidence reviewed from the perspective of The Origin of Species. _Evolution_ 58, 1–11.]({{< ref "/publication/mesoudi_is_2004/index.md" >}})</small>
+[Mesoudi, Whiten and Laland (2004) Is human cultural evolution Darwinian? Evidence reviewed from the perspective of The Origin of Species. _Evolution_ 58, 1–11.]({{< ref "/publication/mesoudi_is_2004/index.md" >}})
 
 <br>
 
