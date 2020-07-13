@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Bio"
-subtitle = "[Download full CV](https://alex-mesoudi.netlify.app/files/alex_mesoudi_cv.pdf)"
+subtitle = "[Download full CV](https://alexmesoudi.com/files/alex_mesoudi_cv.pdf)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
