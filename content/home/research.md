@@ -116,6 +116,8 @@ subtitle = ""
 
 <h5>Representative publications:</h5>
 
+[Brand, Heap, Morgan and Mesoudi (2020) The emergence and adaptive use of prestige in an online social learning task. _Scientific Reports_ 10, 12095.]({{< ref "/publication/brand_emergence_2020/index.md" >}})
+
 [Brand and Mesoudi (2019) Prestige and dominance-based hierarchies exist in naturally occurring human groups, but are unrelated to task-specific knowledge. _Royal Society Open Science_ 6, 181621.]({{< ref "/publication/brand_prestige_2019/index.md" >}})
 
 [Jimenez and Mesoudi (2019) Prestige-biased social learning: current evidence and outstanding questions. _Palgrave Communications_ 5, 20.]({{< ref "/publication/jimenez_prestige-biased_2019/index.md" >}})
