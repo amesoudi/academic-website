@@ -1,7 +1,7 @@
 +++
 title = "Prestige does not affect the cultural transmission of novel controversial arguments in an online transmission chain experiment"
 date = "2020-01-01"
-authors = ["Curtis Atkisson", "Michael J. O'Brien", "Alex Mesoudi"]
+authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "_Journal of Cognition and Culture_ 20, 238–261. https://doi.org/10.1163/15685373-12340083"
 publication_short = "_Journal of Cognition and Culture_ 20, 238–261. https://doi.org/10.1163/15685373-12340083"
@@ -12,7 +12,7 @@ selected = false
 projects = []
 tags = []
 url_pdf = "files/papers/Jimenez_Mesoudi_JCogCulture_2020.pdf"
-url_preprint = ""
+url_preprint = "https://psyarxiv.com/3u9wh"
 url_code = ""
 url_dataset = ""
 url_project = ""
