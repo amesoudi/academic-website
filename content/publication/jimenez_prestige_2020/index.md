@@ -1,7 +1,7 @@
 +++
 title = "Prestige does not affect the cultural transmission of novel controversial arguments in an online transmission chain experiment"
 date = "2020-01-01"
-authors = ["Alex Mesoudi"]
+authors = ["Angel V Jimenez", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "_Journal of Cognition and Culture_ 20, 238–261. https://doi.org/10.1163/15685373-12340083"
 publication_short = "_Journal of Cognition and Culture_ 20, 238–261. https://doi.org/10.1163/15685373-12340083"
