@@ -50,6 +50,7 @@ subtitle = "**Prospective postdocs and PhD students are welcome to email me at <
 
 * [Dr Charlotte Brand](https://lottybrand.wordpress.com/), Postdoctoral Research Associate, 2017-present 
 * [Dugald Foster](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Dugald_Foster), PhD student, 2019-present
+* Andoni Sergiou, PhD student, 2020-present
 
 #### Former postdocs
 
