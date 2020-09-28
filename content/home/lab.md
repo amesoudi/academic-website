@@ -64,7 +64,7 @@ subtitle = "**Prospective postdocs and PhD students are welcome to email me at <
 * [Dr Angel V. Jimenez](https://angelvicj.wixsite.com/blog), University of Exeter, 2017-2020; passed with minor corrections within four years
 * [Dr Alice Williams](https://alicejeanwilliams.wordpress.com/), University of Exeter, 2018-2019 (took over as main supervisor); passed with minor corrections within four years
 * Dr Marius Kempe, Queen Mary / Durham University, 2010-2013; passed with minor corrections within four years (now faculty at St John’s College, Annapolis, USA)
-* Dr Vera Sarkol, Queen Mary, 2010-2014; passed with minor corrections within four years (now employed outside academia
+* Dr Vera Sarkol, Queen Mary, 2010-2014; passed with minor corrections within four years (now employed outside academia)
 
 #### Former visiting PhD students
 
