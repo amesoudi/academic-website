@@ -126,7 +126,7 @@ subtitle = ""
 
 <br>
 
-<h2>6. Real World Cultural Evolution</h2>
+<h2>6. Big Cultural Data</h2>
 
 <p><img src="/img/formations.png" alt="Football formations" style="width:350px;margin-left:20px;margin-right:20px;margin-left:20px;margin-bottom:10px;float:right;">The digital age has yielded big cultural datasets that can be used to quantitatively analyse patterns of real-life cultural evolution. Two recent projects have analysed how large-scale, long-term changes in pop music lyrics and in football tactics can be explained in terms of underlying social learning biases.</p>
 
