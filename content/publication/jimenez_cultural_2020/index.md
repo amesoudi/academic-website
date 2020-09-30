@@ -1,7 +1,7 @@
 +++
 title = "The cultural transmission of prestige and dominance social rank cues: An experimental simulation"
 date = "2020-09-30”
-authors = ["Angel V. Jimenez", "Alex Mesoudi"]
+authors = ["Angel V. Jimenez"]
 publication_types = ["2"]
 publication = "_Evolutionary Psychological Science_. https://doi.org/10.1007/s40806-020-00261-x"
 publication_short = "_Evolutionary Psychological Science_. https://doi.org/10.1007/s40806-020-00261-x"
