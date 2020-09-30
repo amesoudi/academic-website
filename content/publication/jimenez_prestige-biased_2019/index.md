@@ -1,7 +1,7 @@
 +++
 title = "Prestige-biased social learning: current evidence and outstanding questions"
 date = "2019-01-01"
-authors = ["Angel V. Jimenez", "Alex Mesoudi"]
+authors = ["Ángel V. Jiménez", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "_Palgrave Communications_ 5, 20. https://doi.org/10.1057/s41599-019-0228-7"
 publication_short = "_Palgrave Communications_ 5, 20. https://doi.org/10.1057/s41599-019-0228-7"
