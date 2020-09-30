@@ -1,7 +1,7 @@
 +++
 title = "No evidence that omission and confirmation biases affect the perception and recall of vaccine-related information"
 date = "2020-01-01"
-authors = ["Angel V. Jimenez", "Alex Mesoudi", "Jamshid J. Tehrani"]
+authors = ["Ángel V. Jiménez", "Alex Mesoudi, "Jamshid J. Tehrani""]
 publication_types = ["2"]
 publication = "_PLOS ONE_ 15, e0228898. https://doi.org/10.1371/journal.pone.0228898"
 publication_short = "_PLOS ONE_ 15, e0228898. https://doi.org/10.1371/journal.pone.0228898"
