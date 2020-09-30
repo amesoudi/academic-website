@@ -1,6 +1,5 @@
 +++
 title = "The cultural transmission of prestige and dominance social rank cues: An experimental simulation"
-date = "2020-01-01”
 authors = ["Joe Bloggs"]
 publication_types = ["2"]
 publication = "_Evolutionary Psychological Science_. https://doi.org/10.1007/s40806-020-00261-x"
