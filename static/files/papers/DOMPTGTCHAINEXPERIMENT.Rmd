@@ -1,0 +1,465 @@
+---
+title: "DATA ANALYSES (TRANSMISSION CHAIN EXPERIMENT ON THE TRANSMISSION OF DOMINANCE, PRESTIGE AND MIDDLE SOCIAL RANK CUES"
+author: "Angel V. Jimenez"
+date: "04 December 2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Analyses following preregistered data script on https://osf.io/68vcs 
+
+## DATA
+```{r}
+# Read raw dataset
+d<-read.csv("process_raw_data.csv")
+```
+
+
+```{r}
+# DEMOGRAPHICS (ALL PARTICIPANTS)
+# Frequencies by gender
+summary(d$Gender)
+# Range of ages
+range(d$Age) 
+# Mean of age
+mean(d$Age) 
+# Standard Deviation of age
+sd(d$Age) 
+# Histogram for age
+# Histogram for age
+breaks<-c(15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65)
+hist(d$Age,
+     main="Histogram for Age",
+     xlab="Age",
+     breaks = breaks,
+     xlim=c(10,65),
+     ylim=c(0,30),
+     prob = FALSE,
+     xaxt ="n")
+axis(side=1, at=seq(15,65, 5), labels=seq(15,65,5))
+
+
+```
+```{r}
+# DEMOGRAPHICS (INCLUDED PARTICIPANTS)
+library(tidyverse)
+d<-filter(d,DELETED == "NO")
+# Frequencies by gender
+summary(d$Gender)
+# Range of ages
+range(d$Age) 
+# Mean of age
+mean(d$Age) 
+# Standard Deviation of age
+sd(d$Age) 
+# Histogram for age
+# Histogram for age
+breaks<-c(15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65)
+hist(d$Age,
+     main="Histogram for Age",
+     xlab="Age",
+     breaks = breaks,
+     xlim=c(10,65),
+     ylim=c(0,30),
+     prob = FALSE,
+     xaxt ="n")
+axis(side=1, at=seq(15,65, 5), labels=seq(15,65,5))
+
+
+```
+# INTEREST IN FOOTBALL BY GENDER (#EXPLORATORY-NOT INCLUDED IN PREREGISTRATION)
+
+```{r}
+library(tidyverse)
+d%>%
+  group_by(Gender) %>%
+  summarise(mean=mean(Football_1), sd=sd(Football_1), median=median(Football_1), min=min(Football_1), max=max(Football_1))
+
+library(lattice)
+histogram(~ Football_1 | Gender,  main= "Interest in Football", xlab="Score in the Scale", ylab="Frequency", col="grey", border="black",data=d)
+
+library(ggplot2)
+ggplot(d, aes(x=Gender, y=Football_1)) + 
+  geom_boxplot(size=1) + 
+  labs (x = "Gender", y ="Interest in Football")+
+  theme_classic(base_size = 14)+expand_limits(y=c(0,7))
+
+
+```
+
+
+
+# NEW RECALL CODING SYSTEM (DIFFERENT FROM THE PROPOSED IN PREREGISTRATION)
+
+```{r}
+d<-read.csv("process_raw_data_included.csv")
+```
+
+
+
+```{r}
+# Relabel Individual categories
+
+d$CUE<-d$INDIVIDUAL
+d$CUE<- ifelse((d$CUE=="JOHN"),"Prestige",
+                              ifelse((d$CUE=="BILL"),"Dominance", "Middle Rank"))
+```
+
+
+
+
+
+```{r}
+# Creation of colorblind-friendly pallette
+cbPalette <- c("#D55E00", "#E69F00", "#56B4E9", "#009E73", "#999999", "#CC79A7")
+# Chain plots
+library(ggplot2)
+(chain_plot<-ggplot(d, aes(GENERATION_FACTOR, RECALL, colour = CUE)) + stat_summary(fun.y = mean, geom = "line", size = 1.3, aes(group = CUE, colour = CUE)) + stat_summary(fun.y = mean, geom = "point", size = 1, aes(shape = CUE)) + theme_classic() + facet_wrap(~ CHAIN) + theme_classic(base_size = 10) + labs(x = "Experimental Transmission Chain Generation", y = "Number of Correctly Recalled Social Rank Cues") + scale_colour_manual(values=c("#000000", "#009E73", "#D55E00", "#0072B2",  "#F0E442","#CC79A7"))+theme(legend.position = "right")+
+  expand_limits(y=c(0,8)))
+```
+
+
+
+
+
+```{r}
+# Plot
+d$CUE<-as.factor(d$CUE)
+d <- within(d, CUE <- relevel(CUE, ref = "Prestige"))
+library(ggplot2)
+summary_plot<-ggplot(d, aes(GENERATION_FACTOR, RECALL, colour = CUE)) + stat_summary(fun.y = mean, geom = "line", size = 1.5, aes(group = CUE, colour = CUE)) + stat_summary(fun.y = mean, geom = "point", size = 3, aes(shape = CUE)) + stat_summary(fun.data = mean_se, geom = "errorbar", width = 0.2, size = 1.60) + theme_classic(base_size = 14) + labs(x = "Experimental Transmission Chain Generation", y = "Number of Correctly Recalled Social Rank Cues") + scale_colour_manual(values=c("#000000", "#009E73", "#D55E00", "#0072B2",  "#F0E442","#CC79A7"))+theme(legend.position = c(0.9,0.9), legend.justification = c(0.9,0.9))+
+  expand_limits(y=c(0,8))+scale_y_continuous(breaks = c(1,2,3,4,5,6,7,8))
+summary_plot
+```
+
+
+
+
+
+
+```{r}
+library(tidyverse)
+d %>% group_by(INDIVIDUAL) %>%
+summarise(mean=mean(RECALL), sd=sd(RECALL))
+```
+
+
+
+```{r}
+library(tidyverse)
+d %>% group_by(GENERATION_FACTOR) %>%
+summarise(mean=mean(RECALL), sd=sd(RECALL))
+```
+
+```{r}
+# Generation model with chain as random effect
+library(brms)
+
+mo.0<-brm(RECALL ~ mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.0, prob=0.89)
+plot(mo.0)
+pairs(mo.0)
+```
+
+
+
+
+
+```{r}
+# INDIVIDUAL MODEL
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.1<-brm(RECALL ~ INDIVIDUAL+ mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.1, prob=0.89)
+plot(mo.1)
+pairs(mo.1)
+marginal_effects(mo.1, probs = c(0.055, 0.945))
+```
+
+
+```{r}
+# INDIVIDUAL MODEL (John as reference)
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JOHN'))
+mo.1<-brm(RECALL ~ INDIVIDUAL+ mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.1, prob=0.89)
+```
+
+
+```{r}
+# INDIVIDUAL MODEL WITH INTERACTION
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.2<-brm(RECALL ~ INDIVIDUAL * mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.2,prob=0.89)
+plot(mo.2)
+pairs(mo.2)
+marginal_effects(mo.2, probs = c(0.055, 0.945))
+```
+
+```{r}
+# INDIVIDUAL MODEL WITH INTERACTION (JOHN AS REFERENCE)
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JOHN'))
+mo.2<-brm(RECALL ~ INDIVIDUAL * mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.2,prob=0.89)
+```
+
+
+```{r}
+# model comparisons
+(loo.0<-loo(mo.0))
+(loo.1<-loo(mo.1))
+(loo.2<-loo(mo.2))
+
+#Pseudo-BMA weights
+lpd_point <- cbind(
+loo.0$pointwise[, "elpd_loo"],
+loo.1$pointwise[, "elpd_loo"],
+loo.2$pointwise[, "elpd_loo"])
+
+# weights
+library(loo)
+(pbma_wts<-pseudobma_weights(lpd_point, BB=FALSE))
+```
+
+
+
+# EXPLORATORY ANALYSES (NOT INCLUDED IN PRERESGISTRATION R SCRIPT)
+
+```{r}
+
+# ALL EXPLORATORY VARIABLES
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.3<-brm(RECALL ~ INDIVIDUAL+ Gender + Age + mo(Football_1)+ mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.3, prob=0.89)
+plot(mo.3)
+pairs(mo.3)
+marginal_effects(mo.3, probs = c(0.055, 0.945))
+```
+
+```{r}
+# Gender
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.4<-brm(RECALL ~ INDIVIDUAL+ Gender + mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.4, prob=0.89)
+plot(mo.4)
+pairs(mo.4)
+marginal_effects(mo.4, probs = c(0.055, 0.945))
+```
+
+
+```{r}
+# Age
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.5<-brm(RECALL ~ INDIVIDUAL+ Age + mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.5, prob=0.89)
+plot(mo.5)
+pairs(mo.5)
+marginal_effects(mo.5, probs = c(0.055, 0.945))
+```
+
+```{r}
+# Interest in Football
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.6<-brm(RECALL ~ INDIVIDUAL+ mo(Football_1) + mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.6, prob=0.89)
+plot(mo.6)
+pairs(mo.6)
+marginal_effects(mo.6, probs = c(0.055, 0.945))
+```
+
+```{r}
+# Model comparisons
+(loo.3<-loo(mo.3))
+(loo.4<-loo(mo.4))
+(loo.5<-loo(mo.5))
+(loo.6<-loo(mo.6))
+#Pseudo-BMA weights
+lpd_point <- cbind(
+loo.0$pointwise[, "elpd_loo"],
+loo.1$pointwise[, "elpd_loo"],
+loo.2$pointwise[, "elpd_loo"],
+loo.3$pointwise[, "elpd_loo"],
+loo.4$pointwise[, "elpd_loo"],
+loo.5$pointwise[, "elpd_loo"],
+loo.6$pointwise[, "elpd_loo"]
+)
+
+# weights
+library(loo)
+(pbma_wts<-pseudobma_weights(lpd_point, BB=FALSE))
+```
+
+
+# PREREGISTERED RECALL CODING SYSTEM
+
+```{r}
+# Creation of colorblind-friendly pallette
+cbPalette <- c("#D55E00", "#E69F00", "#56B4E9", "#009E73", "#999999", "#CC79A7")
+# Chain plots
+library(ggplot2)
+(chain_plot<-ggplot(d, aes(GENERATION_FACTOR, PRE_RECALL, colour = CUE)) + stat_summary(fun.y = mean, geom = "line", size = 1.3, aes(group = CUE, colour = CUE)) + stat_summary(fun.y = mean, geom = "point", size = 1, aes(shape = CUE)) + theme_classic() + facet_wrap(~ CHAIN) + labs(x = "Experimental Transmission Chain Generation", y = "Number of Correctly Recalled Social Rank Cues") + scale_colour_manual(values=c("#000000", "#009E73", "#D55E00", "#0072B2",  "#F0E442","#CC79A7"))+theme(legend.position = "right")+
+  expand_limits(y=c(0,8)))
+```
+
+
+
+
+
+
+```{r}
+(summaryplot<-ggplot(d, aes(GENERATION_FACTOR, PRE_RECALL, colour = CUE)) + stat_summary(fun.y = mean, geom = "line", size = 1.5, aes(group = CUE, colour = CUE)) + stat_summary(fun.y = mean, geom = "point", size = 3, aes(shape = CUE)) + stat_summary(fun.data = mean_se, geom = "errorbar", width = 0.2, size = 1.60) + theme_classic(base_size = 16) + labs(x = "Experimental Transmission Chain Generation", y = "Number of Correctly Recalled Social Rank Cues") + scale_colour_manual(values=c("#000000", "#009E73", "#D55E00", "#0072B2",  "#F0E442","#CC79A7"))+theme(legend.position = c(0.9,0.9), legend.justification = c(0.9,0.9))+
+  expand_limits(y=c(0,8))+scale_y_continuous(breaks = c(1,2,3,4,5,6,7,8)))
+```
+
+```{r}
+library(tidyverse)
+d %>% group_by(INDIVIDUAL) %>%
+summarise(mean=mean(RECALL), sd=sd(RECALL))
+```
+
+
+
+```{r}
+library(tidyverse)
+d %>% group_by(GENERATION_FACTOR) %>%
+summarise(mean=mean(RECALL), sd=sd(RECALL))
+```
+
+```{r}
+# Generation model with chain as random effect
+library(brms)
+
+mo.0<-brm(PRE_RECALL ~ mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.0, prob=0.89)
+plot(mo.0)
+pairs(mo.0)
+```
+
+
+
+
+
+```{r}
+# INDIVIDUAL MODEL
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.1<-brm(PRE_RECALL ~ INDIVIDUAL+ mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.1, prob=0.89)
+plot(mo.1)
+pairs(mo.1)
+marginal_effects(mo.1, probs = c(0.055, 0.945))
+```
+
+
+```{r}
+# INDIVIDUAL MODEL (John as reference)
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JOHN'))
+mo.1<-brm(PRE_RECALL ~ INDIVIDUAL+ mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.1, prob=0.89)
+```
+
+
+```{r}
+# INDIVIDUAL MODEL WITH INTERACTION
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.2<-brm(PRE_RECALL ~ INDIVIDUAL * mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.2,prob=0.89)
+plot(mo.2)
+pairs(mo.2)
+marginal_effects(mo.2, probs = c(0.055, 0.945))
+```
+
+```{r}
+# INDIVIDUAL MODEL WITH INTERACTION (JOHN AS REFERENCE)
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JOHN'))
+mo.2<-brm(PRE_RECALL ~ INDIVIDUAL * mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.2,prob=0.89)
+```
+
+
+```{r}
+# model comparisons
+(loo.0<-loo(mo.0))
+(loo.1<-loo(mo.1))
+(loo.2<-loo(mo.2))
+
+#Pseudo-BMA weights
+lpd_point <- cbind(
+loo.0$pointwise[, "elpd_loo"],
+loo.1$pointwise[, "elpd_loo"],
+loo.2$pointwise[, "elpd_loo"])
+
+# weights
+library(loo)
+(pbma_wts<-pseudobma_weights(lpd_point, BB=FALSE))
+```
+
+
+
+# EXPLORATORY ANALYSES (NOT INCLUDED IN PREREGISTRATION)
+
+```{r}
+
+# ALL EXPLORATORY VARIABLES
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.3<-brm(PRE_RECALL ~ INDIVIDUAL+ Gender + Age + mo(Football_1)+ mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.3, prob=0.89)
+plot(mo.3)
+pairs(mo.3)
+marginal_effects(mo.3, probs = c(0.055, 0.945))
+```
+
+```{r}
+# Gender
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.4<-brm(PRE_RECALL ~ INDIVIDUAL+ Gender + mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.4, prob=0.89)
+plot(mo.4)
+pairs(mo.4)
+marginal_effects(mo.4, probs = c(0.055, 0.945))
+```
+
+
+```{r}
+# Age
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.5<-brm(PRE_RECALL ~ INDIVIDUAL+ Age + mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.5, prob=0.89)
+plot(mo.5)
+pairs(mo.5)
+marginal_effects(mo.5, probs = c(0.055, 0.945))
+```
+
+```{r}
+# Interest in Football
+d <- within(d, INDIVIDUAL <- relevel(INDIVIDUAL, ref = 'JAMES'))
+mo.6<-brm(PRE_RECALL ~ INDIVIDUAL+ mo(Football_1) + mo(GENERATION_NUMERIC) + (1|CHAIN), data = d, family = "poisson")
+summary(mo.6, prob=0.89)
+plot(mo.6)
+pairs(mo.6)
+marginal_effects(mo.6, probs = c(0.055, 0.945))
+```
+
+```{r}
+# Model comparisons
+(loo.3<-loo(mo.3))
+(loo.4<-loo(mo.4))
+(loo.5<-loo(mo.5))
+(loo.6<-loo(mo.6))
+#Pseudo-BMA weights
+lpd_point <- cbind(
+loo.0$pointwise[, "elpd_loo"],
+loo.1$pointwise[, "elpd_loo"],
+loo.2$pointwise[, "elpd_loo"],
+loo.3$pointwise[, "elpd_loo"],
+loo.4$pointwise[, "elpd_loo"],
+loo.5$pointwise[, "elpd_loo"],
+loo.6$pointwise[, "elpd_loo"]
+)
+
+# weights
+library(loo)
+(pbma_wts<-pseudobma_weights(lpd_point, BB=FALSE))
+```
+
+
