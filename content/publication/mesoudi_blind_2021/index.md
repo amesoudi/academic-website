@@ -1,6 +1,6 @@
 +++
 title = "Blind and incremental or directed and disruptive? On the nature of novel variation in human cultural evolution"
-date = "2020-01-01"
+date = "2021-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "_American Philosophical Quarterly_"
