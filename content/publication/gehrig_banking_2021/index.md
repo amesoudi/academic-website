@@ -1,6 +1,6 @@
 +++
 title = "Banking on cooperation: An evolutionary analysis of microfinance loan repayment behaviour"
-date = "2020-01-01"
+date = "2021-01-01"
 authors = ["Stefan Gehrig", "Alex Mesoudi", "Shakti Lamba"]
 publication_types = ["2"]
 publication = "_Evolutionary Human Sciences_"
