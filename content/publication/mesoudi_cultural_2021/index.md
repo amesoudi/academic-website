@@ -1,6 +1,6 @@
 +++
 title = "Cultural selection and biased transformation: two dynamics of cultural evolution"
-date = "2020-01-01"
+date = "2021-01-01"
 authors = ["Alex Mesoudi"]
 publication_types = ["2"]
 publication = "_Philosophical Transactions of the Royal Society B_"
