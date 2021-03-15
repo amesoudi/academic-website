@@ -57,4 +57,4 @@ This tutorial shows how to create very simple simulation or agent-based models o
 * Model 6: Blending inheritance
 * Model 7: Demography and cultural gain/loss
 
-The tutorial is available at https://github.com/amesoudi/cultural_evolution_ABM_tutorial
+The tutorial is freely available at https://github.com/amesoudi/cultural_evolution_ABM_tutorial
