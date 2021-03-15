@@ -50,7 +50,7 @@ subtitle = "**Prospective postdocs and PhD students are welcome to email me at <
 
 * [Dr Charlotte Brand](https://lottybrand.wordpress.com/), Postdoctoral Research Associate, 2017-present 
 * [Dugald Foster](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Dugald_Foster), PhD student, 2019-present
-* Andoni Sergiou, PhD student, 2020-present
+* [Andoni Sergiou](http://andonisergiou.com/), PhD student, 2020-present
 
 #### Former postdocs
 
@@ -63,7 +63,7 @@ subtitle = "**Prospective postdocs and PhD students are welcome to email me at <
 
 * [Dr Angel V. Jimenez](https://angelvicj.wixsite.com/blog), University of Exeter, 2017-2020; passed with minor corrections within four years (now a postdoc at Brunel University)
 * [Dr Alice Williams](https://alicejeanwilliams.wordpress.com/), University of Exeter, 2018-2019 (took over as main supervisor); passed with minor corrections within four years
-* Dr Marius Kempe, Queen Mary / Durham University, 2010-2013; passed with minor corrections within four years (now faculty at St John’s College, Annapolis, USA)
+* [Dr Marius Kempe](https://www.sjc.edu/academic-programs/faculty/annapolis), Queen Mary / Durham University, 2010-2013; passed with minor corrections within four years (now faculty at St John’s College, Annapolis, USA)
 * Dr Vera Sarkol, Queen Mary, 2010-2014; passed with minor corrections within four years (now employed outside academia)
 
 #### Former visiting PhD students
