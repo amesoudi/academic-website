@@ -53,7 +53,7 @@ subtitle = "**Prospective postdocs and PhD students are welcome to email me at <
 
 #### Former postdocs
 
-* [Dr Charlotte Brand](https://lottybrand.wordpress.com/), Postdoctoral Research Associate, 2017-2020 
+* [Dr Charlotte Brand](https://lottybrand.wordpress.com/), Leverhulme Trust funded Postdoctoral Research Associate, 2017-2020 
 * [Dr Maxime Derex](https://maximederex.weebly.com/), Marie Curie Fellow, 2017-2019 (now holds CNRS position at IAST in Toulouse)
 * [Dr Kesson Magid](https://www.anthro.ox.ac.uk/people/dr-kesson-magid), ESRC funded postdoc, 2013-2016 (now at Department of Anthropology, Oxford)
 * [Dr Delwar Hussain](http://www.sps.ed.ac.uk/staff/social_anthropology/delwar_hussain), ESRC funded postdoc, 2013-2014 (now at Department of Anthropology, University of Edinburgh)
