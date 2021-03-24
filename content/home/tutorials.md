@@ -45,7 +45,7 @@ title = "Tutorials"
  css_class = ""
 +++
 
-#### Simulation models of cultural evolution
+#### Simulation models of cultural evolution in R
 
 This tutorial shows how to create very simple simulation or agent-based models of cultural evolution in R. It uses the RStudio notebook or RMarkdown (.Rmd) format, allowing you to execute code as you read the explanatory text. Each model is contained in a separate RMarkdown file which you should open in RStudio. Currently these are:
 
