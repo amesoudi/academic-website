@@ -1,9 +1,9 @@
 +++
-title = "Individual-based models of cultural evolution. A step-by-step guide using R"
+title = "Individual-based models of cultural evolution. A step-by-step guide using R."
 date = "2020-01-01"
 authors = ["Alberto Acerbi", "Alex Mesoudi", "Marco Smolla"]
 publication_types = ["5"]
-publication = ""
+publication = "Individual-based models of cultural evolution. A step-by-step guide using R. Available at https://acerbialberto.com/IBM-cultevo/"
 publication_short = ""
 abstract = ""
 abstract_short = ""
