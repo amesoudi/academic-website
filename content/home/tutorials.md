@@ -56,5 +56,6 @@ This tutorial shows how to create very simple simulation or agent-based models o
 * Model 5: Migration
 * Model 6: Blending inheritance
 * Model 7: Demography and cultural gain/loss
+* Model 8: Vertical and horizontal transmission
 
 The tutorial is freely available at https://github.com/amesoudi/cultural_evolution_ABM_tutorial
