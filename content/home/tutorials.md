@@ -52,10 +52,12 @@ This tutorial shows how to create very simple simulation or agent-based models o
 * Model 1: Unbiased transmission
 * Model 2: Unbiased and biased mutation
 * Model 3: Biased transmission (direct/content bias)
-* Model 4: Biased transmission (conformist bias)
-* Model 5: Migration
-* Model 6: Blending inheritance
-* Model 7: Demography and cultural gain/loss
-* Model 8: Vertical and horizontal transmission
+* Model 4: Biased transmission (indirect bias)
+* Model 5: Biased transmission (conformist bias)
+* Model 6: Vertical and horizontal transmission
+* Model 7: Migration
+* Model 8: Blending inheritance
+* Model 9: Demography and cultural gain/loss
+* Model 10: Polarization
 
 The tutorial is freely available at https://github.com/amesoudi/cultural_evolution_ABM_tutorial
