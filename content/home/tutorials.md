@@ -47,7 +47,7 @@ title = "Tutorials"
 
 #### Simulation models of cultural evolution in R
 
-This tutorial shows how to create very simple simulation or agent-based models of cultural evolution in R. It uses the RStudio notebook or RMarkdown (.Rmd) format, allowing you to execute code as you read the explanatory text. Each model is contained in a separate RMarkdown file which you should open in RStudio. Currently these are:
+This tutorial shows how to create very simple simulation or agent-based models of cultural evolution in R. It uses the RStudio notebook or RMarkdown (.Rmd) format, allowing you to execute code as you read the explanatory text. Each model is contained in a separate RMarkdown file which you can open in RStudio. Currently these are:
 
 * Model 1: Unbiased transmission
 * Model 2: Unbiased and biased mutation
@@ -59,5 +59,9 @@ This tutorial shows how to create very simple simulation or agent-based models o
 * Model 8: Blending inheritance
 * Model 9: Demography and cultural gain/loss
 * Model 10: Polarization
+* Model 11: Cultural group selection
+* Model 12: Historical dynamics
 
 The tutorial is freely available at https://github.com/amesoudi/cultural_evolution_ABM_tutorial
+
+An online version which contains the compiled models with outputs can be found at https://bookdown.org/amesoudi/ABMtutorial_bookdown/
