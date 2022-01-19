@@ -61,6 +61,9 @@ This tutorial shows how to create very simple simulation or agent-based models o
 * Model 10: Polarization
 * Model 11: Cultural group selection
 * Model 12: Historical dynamics
+* Model 13: Social contagion
+* Model 14: Social networks
+* Model 15: Opinion formation
 
 The tutorial is freely available at https://github.com/amesoudi/cultural_evolution_ABM_tutorial
 
