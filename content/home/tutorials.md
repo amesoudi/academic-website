@@ -65,6 +65,7 @@ This tutorial shows how to create very simple simulation or agent-based models o
 * Model 14: Social networks
 * Model 15: Opinion formation
 * Model 16: Bayesian iterated learning
+* Model 17: Reinforcement learning
 
 The tutorial is freely available at https://github.com/amesoudi/cultural_evolution_ABM_tutorial
 
