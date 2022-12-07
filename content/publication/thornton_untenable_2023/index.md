@@ -1,6 +1,6 @@
 +++
 title = "Untenable propositions and alternative avenues. Comment to Blind alleys and fruitful pathways in the comparative study of cultural cognition, by Andrew Whiten"
-date = "2023-03-01"
+date = "2022-01-01"
 authors = ["Alex Thornton", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "_Physics of Life Reviews_"
