@@ -71,3 +71,12 @@ Feature/interview on the cross-cultural thinking styles project by novelist Ned 
 [<h4>The Forum Debate: Darwinism and the Social Sciences</h4>](https://blogs.lse.ac.uk/theforum/darwinismsocialsciences/)
 Panellist. Organised by the Forum for European Philosophy, London School of Economics
 
+<br>
+
+<a href="http://bigpicturescience.org/episodes/post-social-media">
+  <img src="/img/bigpicturescience-website-logo.png" alt="Big Picture Science Podcast" style="width:150px;height:150px;">
+</a>
+
+[<h4>The Big Picture Science Podcast</h4>](http://bigpicturescience.org/episodes/post-social-media)
+Contributor to the episode Post Social Media
+
