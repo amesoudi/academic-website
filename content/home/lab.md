@@ -48,7 +48,6 @@ subtitle = "**Prospective postdocs and PhD students are welcome to email me at <
 
 ### Current lab members
 
-* [Dugald Foster](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Dugald_Foster), PhD student, 2019-present
 * [Andoni Sergiou](http://andonisergiou.com/), PhD student, 2020-present
 * Ishaan Sinha, PhD student, 2023-present
 * [Dr Angel V. Jimenez](https://angelvjimenez.com/), postdoc, 2023-present
@@ -63,12 +62,14 @@ subtitle = "**Prospective postdocs and PhD students are welcome to email me at <
 
 #### Former PhD students
 
-* [Dr Angel V. Jimenez](https://angelvjimenez.com/), University of Exeter, 2017-2020; passed with minor corrections within four years (now a postdoc at Brunel University)
-* [Dr Alice Williams](https://alicejeanwilliams.wordpress.com/), University of Exeter, 2018-2019 (took over as main supervisor); passed with minor corrections within four years
-* [Dr Marius Kempe](https://www.sjc.edu/academic-programs/faculty/annapolis), Queen Mary / Durham University, 2010-2013; passed with minor corrections within four years (now faculty at St John’s College, Annapolis, USA)
-* Dr Vera Sarkol, Queen Mary, 2010-2014; passed with minor corrections within four years (now employed outside academia)
+* [Dr Dugald Foster](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Dugald_Foster), University of Exeter, 2019-2023; passed with no corrections
+* [Dr Angel V. Jimenez](https://angelvjimenez.com/), University of Exeter, 2017-2020; passed with minor corrections
+* [Dr Alice Williams](https://alicejeanwilliams.wordpress.com/), University of Exeter, 2018-2019 (took over as main supervisor); passed with minor corrections
+* [Dr Marius Kempe](https://www.sjc.edu/academic-programs/faculty/annapolis), Queen Mary / Durham University, 2010-2013; passed with minor corrections
+* Dr Vera Sarkol, Queen Mary, 2010-2014; passed with minor corrections
 
-#### Former visiting PhD/MSc students
+#### Former visiting PhD/MSc students and postdocs
 
+* Wataru Toyokawa, British Academy Visiting Fellow, October-December 2023
 * Jérémy Perez, visiting Masters student from Télécom Paris, France, June-August 2021
 * André Luiz Borba do Nascimento, visiting PhD student from Federal Rural University of Pernambuco, Brazil, March-August 2017
