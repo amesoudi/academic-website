@@ -128,9 +128,11 @@ subtitle = ""
 
 <h2>6. Big Cultural Data</h2>
 
-<p><img src="/img/formations.png" alt="Football formations" style="width:350px;margin-left:20px;margin-right:20px;margin-left:20px;margin-bottom:10px;float:right;">The digital age has yielded big cultural datasets that can be used to quantitatively analyse patterns of real-life cultural evolution. Two recent projects have analysed how large-scale, long-term changes in pop music lyrics and in football tactics can be explained in terms of underlying social learning biases.</p>
+<p><img src="/img/formations.png" alt="Football formations" style="width:350px;margin-left:20px;margin-right:20px;margin-left:20px;margin-bottom:10px;float:right;">The digital age has yielded big cultural datasets that can be used to quantitatively analyse patterns of real-life cultural evolution. Recent projects have analysed and explained large-scale, long-term change in pop music lyrics, football tactics and tweets related to the Netflix documentary Our Planet.</p>
 
 <h5>Representative publications:</h5>
+
+[Acerbi, Burns, Cabuk, Kryczka, Trapp, Valletta and Mesoudi (2023) Sentiment analysis of the Twitter response to Netflix's Our Planet documentary. _Conservation Biology_ 37(4), e14060.]({{< ref "/publication/acerbi_sentiment_2023/index.md" >}})
 
 [Mesoudi (2020) Cultural evolution of football tactics: strategic social learning in managers' choice of formation. _Evolutionary Human Sciences_ 2, e25.]({{< ref "/publication/mesoudi_cultural_2020/index.md" >}})
 
