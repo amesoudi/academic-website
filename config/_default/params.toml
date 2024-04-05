@@ -100,7 +100,7 @@ address = {street = "Biosciences, University of Exeter Penryn Campus", city = "P
 coordinates = {latitude = "50.171378", longitude = "-5.126705"}
 
 # Directions for visitors to locate you.
-directions = "Room 1.18 SERSF Building (upstairs)"
+directions = "Room B038-109 SERSF Building (upstairs)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
