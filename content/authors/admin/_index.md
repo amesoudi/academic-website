@@ -70,7 +70,7 @@ email: ""
 
 ---
 
-Welcome! I am Professor of Cultural Evolution in the [Human Behaviour and Cultural Evolution Group](https://hubceg.jimdofree.com/) at the University of Exeter’s Cornwall Campus, UK.
+Welcome! I am Professor of Cultural Evolution at the University of Exeter’s Penryn Campus in Cornwall, UK.
 
 I study **human cultural evolution**. I am interested in how human culture evolved, and how culture itself evolves over time.
 
@@ -78,6 +78,6 @@ I use **experiments** to simulate cultural evolution in the lab. I get people to
 
 I construct **models** of cultural evolution. These explore how individual decisions (e.g. when and from whom people learn) translate into population-level patterns of cultural change. I have modeled cumulative technological change, copycat suicides, and the effects of migration on cultural diversity.
 
-I analyse **big datasets** to explain real world patterns of cultural evolution. Recent analyses have explored the cultural evolution of pop music and football tactics.
+I analyse **big datasets** to explain real world patterns of cultural evolution. Recent analyses have explored the cultural evolution of pop music, football tactics and nature documentary tweets.
 
 You can read more on the [Research](#research) page below, or view my [Publications](#featured).
