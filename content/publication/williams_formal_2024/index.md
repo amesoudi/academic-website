@@ -1,6 +1,6 @@
 +++
 title = "A formal test using agent-based models of the circumscription theory for the evolution of social complexity"
-date = "2023-12-01"
+date = "2024"
 authors = ["Alice Williams", "Alex Mesoudi"]
 publication_types = ["2"]
 publication = "_Journal of Archaeological Science_"
